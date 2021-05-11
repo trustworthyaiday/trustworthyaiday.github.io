@@ -7,7 +7,7 @@ layout: single
 classes: wide
 author_profile: false
 organizers_row:
-  - image_path: assets/images/hima.jpg
+  - image_path: assets/images/hima.png
     alt: "Himabindu Lakkaraju"
     title: "Hima Lakkaraju"
     excerpt: "Harvard University"
