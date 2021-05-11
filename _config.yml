@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Explaining Machine Learning Predictions"
-subtitle: State-of-the-art, Challenges, and Opportunities
+title: "KDD Deep Learning Day 2021"
+subtitle: Understanding Limits and Pushing the Boundaries of Deep Learning
 # email: sameer@uci.edu
 description: 
-- NeuRIPS 2020 workshop, December 7, 2020, Virtual.
+- KDD 2021, August 15, 2021, Virtual.
 - Virtual
 # twitter_username: username
 # github_username: uci-ml-repo
@@ -67,12 +67,15 @@ footer:
     - label: "@hima_lakkaraju"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/hima_lakkaraju"
-    - label: "@julius_adebayo"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/julius_adebayo"
     - label: "@sameer_"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sameer_"
+    - label: "@baharanm"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/baharanm"
+    - label: "@xiangrenNLP"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/xiangrenNLP"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/uci-ml-repo"

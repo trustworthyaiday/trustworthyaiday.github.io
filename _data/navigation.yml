@@ -1,11 +1,13 @@
 main:
-  - title: "NeurIPS"
-    url: '/neurips20'
-  - title: "AAAI"
-    url: '/aaai21'
-  - title: "Speakers"
-    url: '#speakers'
-  - title: "Bibliography"
-    url: '/papers'
+  - title: "About"
+    url: '#about'
+  - title: "Call for Talks"
+    url: '#call'
+  # - title: "Speakers"
+  #   url: '#speakers'
+  - title: "Organizers"
+    url: '#organizers'
+  # - title: "Bibliography"
+  #   url: '/papers'
   # - title: "Tags"
   #   url: /tags/
