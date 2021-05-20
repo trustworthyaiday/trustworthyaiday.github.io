@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: '#about'
-  - title: "Call for Talks"
-    url: '#call'
+  - title: "Call for Submissions"
+    url: '#call-for-submissions'
   # - title: "Speakers"
   #   url: '#speakers'
   - title: "Organizers"
