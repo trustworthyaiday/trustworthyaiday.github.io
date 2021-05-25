@@ -1,55 +1,14 @@
 ---
-title: Call for Submissions
+title: Call for Contributed Talks
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 classes: wide
 author_profile: false
-organizers_row:
-  - image_path: assets/images/hima.png
-    alt: "Himabindu Lakkaraju"
-    title: "Hima Lakkaraju"
-    excerpt: "Harvard University"
-    url: "https://himalakkaraju.github.io/"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-  - image_path: assets/images/sameer.png
-    alt: "Sameer Singh"
-    title: "Sameer Singh"
-    excerpt: "UC Irvine"
-    url: "http://sameersingh.org"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-  - image_path: assets/images/baharan.jpg
-    alt: "Baharan Mirzasoleiman"
-    title: "Baharan Mirzasoleiman"
-    excerpt: "UCLA"
-    url: "http://web.cs.ucla.edu/~baharan/"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-  - image_path: assets/images/xiang.jpg
-    alt: "Xiang Ren"
-    title: "Xiang Ren"
-    excerpt: "USC"
-    url: "http://ink-ron.usc.edu/xiangren/"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-# venue_row:
-#   - image_path: assets/images/neurips.png
-#     alt: "NeurIPS 2020"
-#     title: "NeurIPS 2020"
-#     # excerpt: "Harvard University"
-#     url: "/neurips20"
-#     btn_label: "Materials"
-#     btn_class: "btn--primary"
-#   - image_path: assets/images/aaai.png
-#     alt: "AAAI 2021"
-#     title: "AAAI 2021"
-#     excerpt: "Coming Soon"
 ---
 
-We invite position and/or perspective papers that critically examine common practices and/or trends in theory, methodology, datasets, empirical or ethical standards, publication models, or any other aspect of deep learning research. While we are happy to bring attention to problems with no immediate solutions, we particularly encourage papers which propose a solution or indicate a way forward. Topics of interest include, but are not limited to: 
+We invite submissions for position and/or perspective talks that critically examine common practices and/or trends in theory, methodology, datasets, empirical or ethical standards, publication models, or any other aspect of deep learning research. While we are happy to bring attention to problems with no immediate solutions, we particularly encourage papers which propose a solution or indicate a way forward. Topics of interest include, but are not limited to: 
 1. Theoretical understanding of deep learning 
 2. Scalability challenges and solutions for deep learning
 3. Fairness, transparency, privacy, and ethical implications of deep learning
@@ -57,26 +16,28 @@ We invite position and/or perspective papers that critically examine common prac
  
 While we are interested in submissions that can be broadly characterized as position and/or perspective papers, we particularly welcome submissions that fall into one or more of the following categories. 
  
-**Flawed Research Processes and Practices** (4 pages)
+**Flawed Research Processes and Practices** 
 
 We welcome submissions that highlight commonly encountered flawed practices at any stage of the research process. These can either be technical pitfalls pertaining to theoretical, methodological, empirical or ethical aspects of deep learning (See e.g., [1,2,3]), or more procedural practices (e.g, [4]). When possible, papers should also try to highlight work which does not fall pretty to flawed practices, as examples of how they can be avoided.
  
-**Unjustified Intuitions or Assumptions** (4 pages)
+**Unjustified Intuitions or Assumptions** 
 
 We welcome submissions that call into question commonly held intuitions or provide clear evidence either for or against assumptions that are regularly taken for granted in the field of deep learning without proper justification. For example, we would like to see papers which provide empirical assessments to test out metrics, verify intuitions, or compare popular current approaches with historic baselines. Such submissions are encouraged regardless of whether these assessments ultimately result in positive or negative results. We would also like to see work which provides results which makes us rethink our intuitions or the assumptions we typically make in the field of deep learning.
  
-**Negative Results** (4 pages)
+**Negative Results** 
 
 We welcome submissions that show failure modes of theoretical, methodological, empirical or ethical aspects of deep learning or suggest new approaches which one might expect to perform well but which do not. The goal here is to provide a venue for such research on deep learning which is of interest to the broader community but which might otherwise go unpublished. We believe that such research could be incredibly useful in dissuading other researchers from pursuing similar ultimately unsuccessful approaches. Though submitted papers are typically expected to explain why the approach performs poorly, this is not essential if the paper is able to demonstrate why the negative result is of interest to the community in its own right.
  
-**Open Problems** (4 pages)
+**Open Problems** 
 
 We welcome submissions that describe either (a) unresolved questions in theoretical, methodological, empirical or ethical aspects of deep learning that need to be addressed (See e.g., [5]), (b) desirable operating characteristics for deep learning models in particular application areas that are yet to be achieved, or (c) new frontiers of deep learning research that require rethinking current practices.
 
 
 ### Submission Instructions and Logistics
-Each accepted submission will be presented as a talk at the deep learning day of the KDD 2021 conference which will be held virtually on August 18th, 2021. 
-Submissions should be formatted using the [ACM paper template](https://www.acm.org/publications/proceedings-template) and uploaded as PDFs. Submissions should contain no more than 4 pages including tables and figures. Each 4-page submission should also include a brief (1-2 paragraph) bio of the main speaker at the end. Authors are free to include an additional two pages of appendix/supplementary material in the submission pdf. **Author names should be anonymized.**   
+Each accepted submission will be presented as a talk (of duration 15 to 30 mins) at the deep learning day of the KDD 2021 conference which will be held virtually on August 18th, 2021. 
+
+Each submission should be a 2-page extended abstract formatted using the [ACM paper template](https://www.acm.org/publications/proceedings-template) and uploaded as a PDF. The submission should include a detailed outline of all the material that the author(s) plan to discuss in their talk. The 2-page submission should also include a brief (1-2 paragraph) bio of the main speaker at the end. Authors are free to include an additional two pages of appendix/supplementary material in the submission pdf. **Author names should be anonymized.**
+
 **Submission Website**:  [https://cmt3.research.microsoft.com/KDDDLD2021/Submission/Index]([https://cmt3.research.microsoft.com/KDDDLD2021/Submission/Index])
 
 

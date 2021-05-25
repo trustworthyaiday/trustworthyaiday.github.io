@@ -35,6 +35,14 @@ organizers_row:
     url: "http://ink-ron.usc.edu/xiangren/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
+students:
+  - image_path: assets/images/shushan.png
+    alt: "Shushan Arakelyan"
+    title: "Shushan Arakelyan"
+    excerpt: "USC"
+    url: "https://shushanarakelyan.github.io/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
 # venue_row:
 #   - image_path: assets/images/neurips.png
 #     alt: "NeurIPS 2020"
@@ -64,10 +72,17 @@ We plan to solicit short paper submissions for “deep learning critique” from
  -->
 
 
+<section class="organizers" markdown="1">
+
 # Organizers
 
 {% include feature_row id="organizers_row" %}
 
+## Student co-organizers
+
+{% include feature_row id="students" %}
+
+</section>
 
 <!-- # Tutorials
 
