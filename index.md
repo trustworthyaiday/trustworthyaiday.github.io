@@ -50,6 +50,13 @@ students:
     url: "https://harvineet.github.io/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
+  - image_path: assets/images/dylan.png
+    alt: "Dylan Slack"
+    title: "Dylan Slack"
+    excerpt: "UC Irvine"
+    url: "https://dylanslacks.website/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
 # venue_row:
 #   - image_path: assets/images/neurips.png
 #     alt: "NeurIPS 2020"
