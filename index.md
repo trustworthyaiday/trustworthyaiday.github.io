@@ -43,11 +43,11 @@ students:
     url: "https://shushanarakelyan.github.io/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-  - image_path: assets/images/harvineet.png
-    alt: "Harvineet Singh"
-    title: "Harvineet Singh"
-    excerpt: "NYU"
-    url: "https://harvineet.github.io/"
+  - image_path: assets/images/dylan.png
+    alt: "Dylan Slack"
+    title: "Dylan Slack"
+    excerpt: "UC Irvine"
+    url: "https://dylanslacks.website/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
 # venue_row:
