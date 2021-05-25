@@ -43,6 +43,13 @@ students:
     url: "https://shushanarakelyan.github.io/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
+  - image_path: assets/images/harvineet.png
+    alt: "Harvineet Singh"
+    title: "Harvineet Singh"
+    excerpt: "NYU"
+    url: "https://harvineet.github.io/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
 # venue_row:
 #   - image_path: assets/images/neurips.png
 #     alt: "NeurIPS 2020"
