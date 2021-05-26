@@ -75,7 +75,7 @@ students:
 
 It is impossible to overlook the transformative effect that the field of deep learning has had on the world and sciences. Deep neural networks have been growing omnipresent, thanks to their state-of-the-art performance in a number of domains (computer vision, speech recognition and generation, natural language understanding and translation, etc). Research and newest applications continue sprouting regularly, thus only widening the existing lead. The large swarm of new applications introduces new challenges, including the ones like data and compute efficiency, reliability, robustness and safety, ethical considerations and privacy constraints, and others. 
 
-To reflect on the recent advancements of the deep learning field at KDD 2021, Deep Learning Day will focus on “Understanding Limits and Pushing the Boundaries of Deep Learning”, with topics including theoretical understanding, scaling deep learning, fairness and transparency, and testing and evaluation.
+To reflect on the recent advancements of the deep learning field at KDD 2021, Deep Learning Day will focus on “Understanding the Limits and Pushing the Boundaries of Deep Learning”, with topics including theoretical understanding, scaling deep learning, fairness and transparency, and testing and evaluation.
 
 On behalf of the Deep Learning Day and KDD 2021 organizing committee, we welcome you all to attend this event!
 

@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "KDD Deep Learning Day 2021"
-subtitle: Understanding Limits and Pushing the Boundaries of Deep Learning
+subtitle: Understanding the Limits and Pushing the Boundaries of Deep Learning
 # email: sameer@uci.edu
 description: 
 - KDD 2021, August 15, 2021, Virtual.
