@@ -36,7 +36,7 @@ We welcome submissions that describe either (a) unresolved questions in theoreti
 ### Submission Instructions and Logistics
 Each accepted submission will be presented as a talk (of duration 15 to 30 mins) at the deep learning day of the KDD 2021 conference which will be held virtually on August 18th, 2021. 
 
-Each submission should be a 2-page extended abstract formatted using the [ACM paper template](https://www.acm.org/publications/proceedings-template) and uploaded as a PDF. The submission should include a detailed outline of all the material that the author(s) plan to discuss in their talk. The 2-page submission should also include a brief (1-2 paragraph) bio of the main speaker at the end. Authors are free to include an additional two pages of appendix/supplementary material in the submission pdf. **Author names should be anonymized.**
+Each submission should be a 2-page extended abstract formatted using the [ACM paper template](https://www.acm.org/publications/proceedings-template) and uploaded as a PDF. The submission should include a detailed outline of all the material that the author(s) plan to discuss in their talk. The 2-page submission should also include a brief (1-2 paragraph) bio of the main speaker at the end. Authors are free to include an additional two pages of appendix/supplementary material in the submission pdf.
 
 **Submission Website**:  [https://cmt3.research.microsoft.com/KDDDLD2021/Submission/Index]([https://cmt3.research.microsoft.com/KDDDLD2021/Submission/Index])
 
