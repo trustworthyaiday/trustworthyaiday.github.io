@@ -43,8 +43,8 @@ Each submission should be a 2-page extended abstract formatted using the [ACM pa
 
 ### Important Dates:
 
-**Paper Submission Deadline:**  July 1st, 2021 11.59pm AoE  
-**Author Notification:**        July 14th, 2021 11.59pm AoE  
+**Paper Submission Deadline:**  ~~July 1st, 2021~~ July 9th, 2021 11.59pm AoE  
+**Author Notification:**        ~~July 14th, 2021~~ July 21st, 2021 11.59pm AoE  
 **Camera Ready Deadline:**    August 1st, 2021 11.59pm AoE  
 
    
