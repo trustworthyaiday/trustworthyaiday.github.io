@@ -74,7 +74,7 @@ scaling_row:
   - image_path: assets/images/eric_xing.png
     alt: "Eric Xing"
     title: "Eric Xing"
-    excerpt: "CMU"
+    excerpt: "Petuum/CMU"
   - image_path: assets/images/deepak_agarwal.png
     alt: "Deepak Agarwal"
     title: "Deepak Agarwal"
