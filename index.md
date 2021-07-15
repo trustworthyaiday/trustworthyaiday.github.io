@@ -57,6 +57,42 @@ students:
     url: "https://dylanslacks.website/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
+theory_row:
+  - image_path: assets/images/jason_lee.jpeg
+    alt: "Jason Lee"
+    title: "Jason Lee"
+    excerpt: "Princeton"
+  - image_path: assets/images/michela_paganini.jpeg
+    alt: "Michela Paganini"
+    title: "Michela Paganini"
+    excerpt: "DeepMind"
+scaling_row:
+  - image_path: assets/images/dawn_song.png
+    alt: "Dawn Song"
+    title: "Dawn Song"
+    excerpt: "UC Berkley"
+  - image_path: assets/images/eric_xing.png
+    alt: "Eric Xing"
+    title: "Eric Xing"
+    excerpt: "CMU"
+  - image_path: assets/images/deepak_agarwal.png
+    alt: "Deepak Agarwal"
+    title: "Deepak Agarwal"
+    excerpt: "Pinterest"
+fairness_row:
+  - image_path: assets/images/martin_watternberg.png
+    alt: "Martin Watternberg"
+    title: "Martin Watternberg"
+    excerpt: "Google PAIR/Harvard CS"
+  - image_path: assets/images/james_zou.png
+    alt: "James Zou"
+    title: "James Zou"
+    excerpt: "Stanford"
+testing_row:
+  - image_path: assets/images/besmira_nushi.jpeg
+    alt: "Besmira Nushi"
+    title: "Besmira Nushi"
+    excerpt: "Microsoft Research"
 # venue_row:
 #   - image_path: assets/images/neurips.png
 #     alt: "NeurIPS 2020"
@@ -87,6 +123,27 @@ We plan to solicit short paper submissions for “deep learning critique” from
 
 
 <section class="organizers" markdown="1">
+---
+
+# Invited Speakers
+
+### Theoretical Understanding of Deep Learning
+
+{% include feature_row id="theory_row" %}
+
+### Scaling Deep Learning
+
+{% include feature_row id="scaling_row" %}
+
+### Fairness and Transparency of Deep Learning
+
+{% include feature_row id="fairness_row" %}
+
+### Evaluating and Debugging Deep Learning Models
+
+{% include feature_row id="testing_row" %}
+
+---
 
 # Organizers
 

@@ -3,6 +3,8 @@ main:
     url: '#about'
   - title: "Call for Contributed Talks"
     url: 'call'
+  - title: "Program"
+    url: 'program'
   # - title: "Speakers"
   #   url: '#speakers'
   - title: "Organizers"
