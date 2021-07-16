@@ -105,7 +105,7 @@ All times are listed in PST timezone
     <td class="tg-73oq">2:00pm</td>
     <td class="tg-73oq">2:30pm</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq">Martin Watternberg</td>
+    <td class="tg-73oq">Martin Wattenberg</td>
   </tr>
   <tr>
     <td class="tg-65px">2:30pm</td>

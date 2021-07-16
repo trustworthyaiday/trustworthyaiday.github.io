@@ -81,8 +81,8 @@ scaling_row:
     excerpt: "Pinterest"
 fairness_row:
   - image_path: assets/images/martin_watternberg.png
-    alt: "Martin Watternberg"
-    title: "Martin Watternberg"
+    alt: "Martin Wattenberg"
+    title: "Martin Wattenberg"
     excerpt: "Google PAIR/Harvard CS"
   - image_path: assets/images/james_zou.png
     alt: "James Zou"
