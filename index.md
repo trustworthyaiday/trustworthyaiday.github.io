@@ -93,6 +93,10 @@ testing_row:
     alt: "Besmira Nushi"
     title: "Besmira Nushi"
     excerpt: "Microsoft Research"
+  - image_path: assets/images/aleksander_madry.png
+    alt: "Aleksander Madry"
+    title: "Aleksander Madry"
+    excerpt: "MIT"
 # venue_row:
 #   - image_path: assets/images/neurips.png
 #     alt: "NeurIPS 2020"
@@ -106,7 +110,7 @@ testing_row:
 #     title: "AAAI 2021"
 #     excerpt: "Coming Soon"
 ---
-
+<br/>
 # About
 
 It is impossible to overlook the transformative effect that the field of deep learning has had on the world and sciences. Deep neural networks have been growing omnipresent, thanks to their state-of-the-art performance in a number of domains (computer vision, speech recognition and generation, natural language understanding and translation, etc). Research and newest applications continue sprouting regularly, thus only widening the existing lead. The large swarm of new applications introduces new challenges, including the ones like data and compute efficiency, reliability, robustness and safety, ethical considerations and privacy constraints, and others. 
@@ -122,7 +126,7 @@ We plan to solicit short paper submissions for “deep learning critique” from
  -->
 
 
-<section class="organizers" markdown="1">
+<section class="speakers" markdown="1">
 ---
 
 # Invited Speakers
@@ -143,8 +147,9 @@ We plan to solicit short paper submissions for “deep learning critique” from
 
 {% include feature_row id="testing_row" %}
 
----
+</section>
 
+<section class="organizers" markdown="1">
 # Organizers
 
 {% include feature_row id="organizers_row" %}

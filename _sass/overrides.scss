@@ -9,15 +9,43 @@
 			float: none;
 			max-width: 25%;
 		}
+	}
+	
+	.feature__wrapper {
+		border-bottom: none;
+		margin-bottom: 0;
+	}
 
-		h2 {
-			min-height: 4rem;
+	.archive__item-title {
+		font-size:78%;
+	}
+
+	h2 {
+		margin-top: 0;
+		border-bottom: none;
+	}
+}
+
+.speakers {
+	@media (min-width: 37.5em) {
+		.feature__wrapper {
+			display: flex;
+		}
+
+		.feature__item {
+			margin: 0 0 0 1%;
+			float: none;
+			max-width: 25%;
 		}
 	}
 	
 	.feature__wrapper {
 		border-bottom: none;
 		margin-bottom: 0;
+	}
+
+	.archive__item-title {
+		font-size:78%;
 	}
 	
 
