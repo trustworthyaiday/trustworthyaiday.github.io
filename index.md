@@ -62,41 +62,61 @@ theory_row:
     alt: "Jason Lee"
     title: "Jason Lee"
     excerpt: "Princeton"
-  - image_path: assets/images/michela_paganini.jpeg
-    alt: "Michela Paganini"
-    title: "Michela Paganini"
-    excerpt: "DeepMind"
+    url: "https://jasondlee88.github.io/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
 scaling_row:
   - image_path: assets/images/dawn_song.png
     alt: "Dawn Song"
     title: "Dawn Song"
     excerpt: "UC Berkley"
+    url: "https://people.eecs.berkeley.edu/~dawnsong/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
   - image_path: assets/images/eric_xing.png
     alt: "Eric Xing"
     title: "Eric Xing"
     excerpt: "Petuum/CMU"
+    url: "https://www.cs.cmu.edu/~epxing/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
   - image_path: assets/images/deepak_agarwal.png
     alt: "Deepak Agarwal"
     title: "Deepak Agarwal"
     excerpt: "Pinterest"
+    url: "https://www.linkedin.com/in/dipu1025"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
 fairness_row:
   - image_path: assets/images/martin_watternberg.png
     alt: "Martin Wattenberg"
     title: "Martin Wattenberg"
     excerpt: "Google PAIR/Harvard CS"
+    url: "http://www.bewitched.com/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
   - image_path: assets/images/james_zou.png
     alt: "James Zou"
     title: "James Zou"
     excerpt: "Stanford"
+    url: "https://www.james-zou.com/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
 testing_row:
   - image_path: assets/images/besmira_nushi.jpeg
     alt: "Besmira Nushi"
     title: "Besmira Nushi"
     excerpt: "Microsoft Research"
+    url: "https://besmiranushi.com/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
   - image_path: assets/images/aleksander_madry.png
     alt: "Aleksander Madry"
     title: "Aleksander Madry"
     excerpt: "MIT"
+    url: "https://people.csail.mit.edu/madry/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
 # venue_row:
 #   - image_path: assets/images/neurips.png
 #     alt: "NeurIPS 2020"
@@ -117,7 +137,7 @@ It is impossible to overlook the transformative effect that the field of deep le
 
 To reflect on the recent advancements of the deep learning field at KDD 2021, Deep Learning Day will focus on “Understanding the Limits and Pushing the Boundaries of Deep Learning”, with topics including theoretical understanding, scaling deep learning, fairness and transparency, and testing and evaluation.
 
-On behalf of the Deep Learning Day and KDD 2021 organizing committee, we welcome you all to attend this event!
+KDD Deep Learning Day 2021 will take place on **Aug 18, 8am-5pm PST**. On behalf of the Deep Learning Day and KDD 2021 organizing committee, we welcome you all to attend this event!
 
 
 <!-- #Call
