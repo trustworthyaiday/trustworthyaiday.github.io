@@ -21,25 +21,26 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-73oq">8:00am</td>
     <td class="tg-73oq">8:30am</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq">Eric Xing</td>
+    <td class="tg-73oq"><a href="https://www.cs.cmu.edu/~epxing/">Eric Xing</a></td>
   </tr>
   <tr>
     <td class="tg-73oq">8:30am</td>
     <td class="tg-73oq">8:45am</td>
     <td class="tg-73oq">Contributed Talk</td>
     <td class="tg-73oq">Arun Kumar</td>
+    <td class="tg-73oq"></td>
   </tr>
   <tr>
     <td class="tg-73oq">8:45am</td>
     <td class="tg-73oq">9:00am</td>
     <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq">Deepak Agarwal, <i>"Deep learning to power user engagement on Pinterest"</i></td>
+    <td class="tg-73oq"><a href="https://www.linkedin.com/in/dipu1025/">Deepak Agarwal</a>: "Deep learning to power user engagement on Pinterest"</td>
   </tr>
   <tr>
     <td class="tg-73oq">9:00am</td>
     <td class="tg-73oq">9:30am</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq">Dawn Song, <i>"Building towards a Responsible Data Economy"</i></td>
+    <td class="tg-73oq"><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a>: "Building towards a Responsible Data Economy"</td>
   </tr>
   <tr>
     <td class="tg-65px">9:30am</td>
@@ -51,25 +52,25 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-73oq">9:45am</td>
     <td class="tg-73oq">10:15am</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq">Besmira Nushi</td>
+    <td class="tg-73oq"><a href="https://besmiranushi.com/">Besmira Nushi</a>: "On Debugging Machine Learning Models and Systems: Challenges, Myths, Tools"</td>
   </tr>
   <tr>
     <td class="tg-73oq">10:15am</td>
     <td class="tg-73oq">10:30am</td>
     <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><a href="https://ddkang.github.io/">Daniel Kang</a></td>
   </tr>
   <tr>
     <td class="tg-73oq">10:30am</td>
     <td class="tg-73oq">10:45am</td>
     <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><a href="http://web.cse.ohio-state.edu/~gurukar.1/">Saket Gurukar</a></td>
   </tr>
   <tr>
     <td class="tg-73oq">10:45am</td>
     <td class="tg-73oq">11:15am</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq">Aleksander Madry</td>
+    <td class="tg-73oq"><a href="https://people.csail.mit.edu/madry/">Aleksander Madry</a></td>
   </tr>
   <tr>
     <td class="tg-vwhn">11:15am</td>
@@ -87,25 +88,25 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">1:30pm</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq">James Zou, <i>"Data-centric Deep Learning"</i></td>
+    <td class="tg-73oq"><a href="https://www.james-zou.com/">James Zou</a>: "Data-centric Deep Learning"</td>
   </tr>
   <tr>
     <td class="tg-73oq">1:30pm</td>
     <td class="tg-73oq">1:45pm</td>
     <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><a href="http://www-personal.umich.edu/~harmank/">Harman Kaur</a></td>
   </tr>
   <tr>
     <td class="tg-73oq">1:45pm</td>
     <td class="tg-73oq">2:00pm</td>
     <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><a href="https://www.cs.toronto.edu/~madras/">David Madras</a></td>
   </tr>
   <tr>
     <td class="tg-73oq">2:00pm</td>
     <td class="tg-73oq">2:30pm</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq">Martin Wattenberg, <i>"Visualization for Human and Machine Learning"</i></td>
+    <td class="tg-73oq"><a href="http://www.bewitched.com/">Martin Wattenberg</a>: "Visualization for Human and Machine Learning"</td>
   </tr>
   <tr>
     <td class="tg-65px">2:30pm</td>
@@ -117,25 +118,25 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-73oq">2:45pm</td>
     <td class="tg-73oq">3:15pm</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><a href="https://jasondlee88.github.io/">Jason Lee</a>: "Provable Representation Learning"</td>
   </tr>
   <tr>
     <td class="tg-73oq">3:15pm</td>
     <td class="tg-73oq">3:30pm</td>
     <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq">Andrew Stolman</td>
+    <td class="tg-73oq"><a href="https://users.soe.ucsc.edu/~astolman/">Andrew Stolman</a></td>
   </tr>
   <tr>
     <td class="tg-73oq">3:30pm</td>
     <td class="tg-73oq">3:45pm</td>
     <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><a href="https://tianlong-chen.github.io/about/">Tianlong Chen</a></td>
   </tr>
   <tr>
     <td class="tg-73oq">3:45pm</td>
     <td class="tg-73oq">4:15pm</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><a href="https://yasamanb.github.io/">Yasaman Bahri</a>: "Understanding Neural Scaling Laws"</td>
   </tr>
   <tr>
     <td class="tg-vwhn">4:15pm</td>
