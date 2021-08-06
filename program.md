@@ -1,5 +1,5 @@
 ---
-title: Program (Tentative)
+title: Program
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
@@ -21,7 +21,7 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-73oq">8:00am</td>
     <td class="tg-73oq">8:30am</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://www.cs.cmu.edu/~epxing/">Eric Xing</a> (Petuum/CMU)</td>
+    <td class="tg-73oq"><a href="https://www.cs.cmu.edu/~epxing/">Eric Xing</a> (Petuum)</td>
   </tr>
   <tr>
     <td class="tg-73oq">8:30am</td>
