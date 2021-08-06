@@ -39,7 +39,7 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
   <tr>
     <td class="tg-73oq">9:15am</td>
     <td class="tg-73oq">9:30am</td>
-    <td class="tg-73oq">Contributed Talk</td>
+    <td class="tg-73oq">Invited Talk</td>
     <td class="tg-73oq"><a href="https://www.linkedin.com/in/dipu1025/">Deepak Agarwal</a> (Pinterest): "Deep learning to power user engagement on Pinterest"</td>
   </tr>
   <tr>
