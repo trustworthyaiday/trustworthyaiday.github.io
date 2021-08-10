@@ -124,7 +124,7 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-73oq">3:15pm</td>
     <td class="tg-73oq">3:30pm</td>
     <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"><a href="https://users.soe.ucsc.edu/~astolman/">Andrew Stolman</a> (UC San Diego)</td>
+    <td class="tg-73oq"><a href="https://users.soe.ucsc.edu/~astolman/">Andrew Stolman</a> (UC San Diego): "Studying the (in)-effectiveness of graph embeddings"</td>
   </tr>
   <tr>
     <td class="tg-73oq">3:30pm</td>
