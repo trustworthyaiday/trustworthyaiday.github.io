@@ -88,7 +88,7 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">1:30pm</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://www.james-zou.com/">James Zou</a> (Stanford): "Data-centric Deep Learning"</td>
+    <td class="tg-73oq"><a href="https://www.james-zou.com/">James Zou</a> (Stanford): "A data-centric view of trustworthy AI"</td>
   </tr>
   <tr>
     <td class="tg-73oq">1:30pm</td>
@@ -130,7 +130,7 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-73oq">3:30pm</td>
     <td class="tg-73oq">3:45pm</td>
     <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"><a href="https://tianlong-chen.github.io/about/">Tianlong Chen</a> (MIT): "The lottery ticket hypothesis for gigantic pre-trained models"</td>
+    <td class="tg-73oq"><a href="https://tianlong-chen.github.io/about/">Tianlong Chen</a> (UT Austin): "The lottery ticket hypothesis for gigantic pre-trained models"</td>
   </tr>
   <tr>
     <td class="tg-73oq">3:45pm</td>
