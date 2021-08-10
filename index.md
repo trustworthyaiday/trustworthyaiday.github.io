@@ -146,6 +146,8 @@ To reflect on the recent advancements of the deep learning field at KDD 2021, De
 
 KDD Deep Learning Day 2021 will take place on **Aug 18, 8am-5pm PST**. On behalf of the Deep Learning Day and KDD 2021 organizing committee, we welcome you all to attend this event!
 
+# To attend the event, please register for [KDD virtual conference](https://kdd.org/kdd2021/attending) and join us via [this link](https://virtual.2021.kdd.org/Deep_Learning_Day.html).
+
 
 <!-- #Call
 
