@@ -26,7 +26,7 @@ speakers:
     excerpt: |
         Google Brain
         ### Understanding Neural Scaling Laws
-        TBD
+        The test loss of neural networks has empirically been found to follow power laws as a function of basic variables such as model size and training set size. I will discuss our work connecting and explaining some of these scaling laws. We introduce “variance-limited” and “resolution-limited” scaling regimes to distinguish the origin of the behavior. The variance-limited scaling regime follows simply from the existence of a well-behaved infinite data or infinite width limit, while the resolution-limited regime can be explained by positing that models are effectively resolving a smooth data manifold. In the setting of kernel models, I'll discuss how this can be equivalently obtained from the kernel spectrum. Finally, I’ll close with a few interesting empirical observations about task properties and scaling exponents.
   - image_path: assets/images/dawn_song.png
     alt: "Dawn Song"
     title: "Dawn Song"
@@ -39,8 +39,8 @@ speakers:
     title: "Eric Xing"
     excerpt: |
         Petuum
-        ### TBD
-        TBD
+        ### It is time for deep learning to understand its expense bills
+        In the past several years, deep learning has dominated both academic and industrial R&D over a wide range of applications, with two remarkable trends: 1) developing and training ever larger “all-purpose” monster models over all data possibly available, with a whopping 10,000x parameter number increase in recent 3 years; 2) developing and assembling end-to-end “white-boxes” deployments with ever larger number of component sub-models that need to be highly customized and interoperative. Progresses made to the leaderboards or featured in news headlines are highlighting metrics such as saliency of content production, accuracy on labeling, or speed of convergence, but a number of key challenges impacting the cost effectiveness of such results, and eventually the sustainability of current R&D efforts in DL, are not receiving enough attention: 1) For large models, how many lines of code outside of the DL model are need to parallelize the computing over a computer cluster? (2) Which/How many hardware resources to use to train and deploy the model? (3) How to tune the model, the code, and the system to achieve optimum performance? (4) Can we automate composition, parallelization, tuning, and resource sharing between many users and jobs? In this talk, I will discuss these issues as a core focus in SysML research, and I will present some preliminary results on how to build standardizable, adaptive, and automatable system support for DL based on first principles (when available) underlying DL design and implementation.
   - image_path: assets/images/deepak_agarwal.png
     alt: "Deepak Agarwal"
     title: "Deepak Agarwal"

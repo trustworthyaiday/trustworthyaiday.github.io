@@ -21,7 +21,7 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-73oq">8:00am</td>
     <td class="tg-73oq">8:30am</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://www.cs.cmu.edu/~epxing/">Eric Xing</a> (Petuum)</td>
+    <td class="tg-73oq"><a href="https://www.cs.cmu.edu/~epxing/">Eric Xing</a> (Petuum): "It is time for deep learning to understand its expense bills"</td>
   </tr>
   <tr>
     <td class="tg-73oq">8:30am</td>
@@ -64,7 +64,7 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-73oq">10:30am</td>
     <td class="tg-73oq">10:45am</td>
     <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"><a href="http://web.cse.ohio-state.edu/~gurukar.1/">Saket Gurukar</a> (Ohio State University)</td>
+    <td class="tg-73oq"><a href="http://web.cse.ohio-state.edu/~gurukar.1/">Saket Gurukar</a> (Ohio State University): "Unsupervised Network Representation Learning and the Illusion of Progress"</td>
   </tr>
   <tr>
     <td class="tg-73oq">10:45am</td>
