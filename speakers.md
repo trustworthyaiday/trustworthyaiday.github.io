@@ -81,8 +81,13 @@ speakers:
     title: "Aleksander Madry"
     excerpt: |
         MIT
-        ### TBD
-        TBD
+        ### Why Do ML Models Fail?
+        Our current machine learning models achieve impressive performance on many benchmark tasks. Yet, these models remain remarkably brittle and susceptible to manipulation.
+        
+        Why is this the case?
+
+        In this talk, we take a closer look at this question, and pinpoint some of the roots of this observed brittleness. Specifically, we discuss how the way current ML models “learn” and are evaluated gives rise to widespread vulnerabilities, and then outline possible approaches to alleviate these deficiencies.
+
 
 contributed:
   - alt: "Andrew Stolman"

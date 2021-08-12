@@ -70,7 +70,7 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-73oq">10:45am</td>
     <td class="tg-73oq">11:15am</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://people.csail.mit.edu/madry/">Aleksander Madry</a> (MIT)</td>
+    <td class="tg-73oq"><a href="https://people.csail.mit.edu/madry/">Aleksander Madry</a> (MIT): "Why Do ML Models Fail?"</td>
   </tr>
   <tr>
     <td class="tg-vwhn">11:15am</td>
