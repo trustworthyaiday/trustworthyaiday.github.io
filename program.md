@@ -21,7 +21,7 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-73oq">8:00am</td>
     <td class="tg-73oq">8:30am</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://www.cs.cmu.edu/~epxing/">Eric Xing</a> (Petuum): "It is time for deep learning to understand its expense bills"</td>
+    <td class="tg-73oq"><a href="https://www.cs.cmu.edu/~epxing/">Eric Xing</a> (MBZUAI/Petuum/CMU): "It is time for deep learning to understand its expense bills"</td>
   </tr>
   <tr>
     <td class="tg-73oq">8:30am</td>
@@ -100,7 +100,7 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-73oq">1:45pm</td>
     <td class="tg-73oq">2:00pm</td>
     <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"><a href="https://www.cs.toronto.edu/~madras/">David Madras</a> (UToronto)</td>
+    <td class="tg-73oq"><a href="https://www.cs.toronto.edu/~madras/">David Madras</a> (UToronto): "Why Learn Fair Representations?"</td>
   </tr>
   <tr>
     <td class="tg-73oq">2:00pm</td>

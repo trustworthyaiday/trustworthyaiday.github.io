@@ -38,7 +38,7 @@ speakers:
     alt: "Eric Xing"
     title: "Eric Xing"
     excerpt: |
-        Petuum
+        Zayed University of Artificial Intelligence (MBZUAI)/Petuum/CMU
         ### It is time for deep learning to understand its expense bills
         In the past several years, deep learning has dominated both academic and industrial R&D over a wide range of applications, with two remarkable trends: 1) developing and training ever larger “all-purpose” monster models over all data possibly available, with a whopping 10,000x parameter number increase in recent 3 years; 2) developing and assembling end-to-end “white-boxes” deployments with ever larger number of component sub-models that need to be highly customized and interoperative. Progresses made to the leaderboards or featured in news headlines are highlighting metrics such as saliency of content production, accuracy on labeling, or speed of convergence, but a number of key challenges impacting the cost effectiveness of such results, and eventually the sustainability of current R&D efforts in DL, are not receiving enough attention: 1) For large models, how many lines of code outside of the DL model are need to parallelize the computing over a computer cluster? (2) Which/How many hardware resources to use to train and deploy the model? (3) How to tune the model, the code, and the system to achieve optimum performance? (4) Can we automate composition, parallelization, tuning, and resource sharing between many users and jobs? In this talk, I will discuss these issues as a core focus in SysML research, and I will present some preliminary results on how to build standardizable, adaptive, and automatable system support for DL based on first principles (when available) underlying DL design and implementation.
   - image_path: assets/images/deepak_agarwal.png
@@ -137,8 +137,8 @@ contributed:
     title: "David Madras"
     excerpt: |
         UToronto
-        ### TBD
-        TBD
+        ### Why Learn Fair Representations?
+        Recently, rising levels of concern around the harmful impacts of automated systems combined with rapid progress in tools for machine learning has led to increased interest in the topic of "fair representation learning". In this talk, I will unpack the motivations behind this subfield, how some recent approaches address them, and their relationships to other subfields of machine learning. I will additionally discuss the central challenges of fair representation learning, as well as detail promising directions by which future work might approach these challenges.
  
         Bio: David Madras is a PhD student in the Machine Learning group at the University of Toronto and the Vector Institute. His research focuses on the learning and evaluation of automated decision-making systems, including their fairness and robustness, as well as the role of humans in those systems. He is currently a graduate fellow at the Schwartz Reisman Institute for Technology and Society, and was co-organizer of the Participatory Approaches to Machine Learning 2020 workshop, and organizer and program chair of the Pan-Canadian Self-Organizing Conference on Machine Learning (SOCMLx) 2019.
   - alt: "Saket Gurukar"

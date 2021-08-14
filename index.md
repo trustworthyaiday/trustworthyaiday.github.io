@@ -83,7 +83,7 @@ scaling_row:
   - image_path: assets/images/eric_xing.png
     alt: "Eric Xing"
     title: "Eric Xing"
-    excerpt: "Petuum"
+    excerpt: "MBZUAI/Petuum/CMU"
     # url: "https://www.cs.cmu.edu/~epxing/"
     # btn_label: "Homepage"
     # btn_class: "btn--primary"
