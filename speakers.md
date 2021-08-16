@@ -141,7 +141,8 @@ contributed:
         Recently, rising levels of concern around the harmful impacts of automated systems combined with rapid progress in tools for machine learning has led to increased interest in the topic of "fair representation learning". In this talk, I will unpack the motivations behind this subfield, how some recent approaches address them, and their relationships to other subfields of machine learning. I will additionally discuss the central challenges of fair representation learning, as well as detail promising directions by which future work might approach these challenges.
  
         Bio: David Madras is a PhD student in the Machine Learning group at the University of Toronto and the Vector Institute. His research focuses on the learning and evaluation of automated decision-making systems, including their fairness and robustness, as well as the role of humans in those systems. He is currently a graduate fellow at the Schwartz Reisman Institute for Technology and Society, and was co-organizer of the Participatory Approaches to Machine Learning 2020 workshop, and organizer and program chair of the Pan-Canadian Self-Organizing Conference on Machine Learning (SOCMLx) 2019.
-  - alt: "Saket Gurukar"
+  - image_path: assets/images/saket_gurukar.jpg
+    alt: "Saket Gurukar"
     title: "Saket Gurukar"
     excerpt: |
         OSU
