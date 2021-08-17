@@ -76,7 +76,9 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-vwhn">11:15am</td>
     <td class="tg-vwhn">12:00pm</td>
     <td class="tg-vwhn">Panel</td>
-    <td class="tg-vwhn">"Scaling and Debugging Deep Learning Systems", moderator: Baharan Mirzasoleiman</td>
+    <td class="tg-vwhn">"Scaling and Debugging Deep Learning Systems" 
+Panelists: Eric Xing, Deepak Agarwal, Besmira Nushi, Aleksander Madry, Arun Kumar, Daniel Kang, Saket Gurukar  
+Moderators: Baharan Mirzasoleiman & Hima Lakkaraju</td>
   </tr>
   <tr>
     <td class="tg-65px">12:00pm</td>
@@ -142,7 +144,9 @@ KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**.
     <td class="tg-vwhn">4:15pm</td>
     <td class="tg-vwhn">5:00pm</td>
     <td class="tg-vwhn">Panel</td>
-    <td class="tg-vwhn">"Understanding of DL Systems: Transparency, Fairness, and Theory", moderator: Hima Lakkaraju</td>
+    <td class="tg-vwhn">"Understanding of DL Systems: Transparency, Fairness, and Theory"
+Panelists: James Zou, Yasaman Bahri,  Martin Wattenberg, Harman Kaur, David Madras
+Moderators: Hima Lakkaraju & Baharan Mirzasoleiman</td>
   </tr>
   <tr>
     <td class="tg-feht">5:00pm</td>
