@@ -160,21 +160,21 @@ We plan to solicit short paper submissions for “deep learning critique” from
 
 # Invited Speakers
 
-### Theoretical Understanding of Deep Learning
-
-{% include feature_row id="theory_row" %}
-
 ### Scaling Deep Learning
 
 {% include feature_row id="scaling_row" %}
+
+### Evaluating and Debugging Deep Learning Models
+
+{% include feature_row id="testing_row" %}
 
 ### Fairness and Transparency of Deep Learning
 
 {% include feature_row id="fairness_row" %}
 
-### Evaluating and Debugging Deep Learning Models
+### Theoretical Understanding of Deep Learning
 
-{% include feature_row id="testing_row" %}
+{% include feature_row id="theory_row" %}
 
 </section>
 
