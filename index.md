@@ -7,20 +7,6 @@ layout: single
 classes: wide
 author_profile: false
 organizers_row:
-  - image_path: assets/images/hima.png
-    alt: "Himabindu Lakkaraju"
-    title: "Hima Lakkaraju"
-    excerpt: "Harvard University"
-    url: "https://himalakkaraju.github.io/"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-  - image_path: assets/images/mani_srivastava.jpeg
-    alt: "Mani Srivastava"
-    title: "Mani Srivastava"
-    excerpt: "University of California, Los Angeles"
-    url: "https://www.ee.ucla.edu/mani-srivastava/"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
   - image_path: assets/images/alex_chouldechova.jpeg
     alt: "Alexandra Chouldechova"
     title: "Alexandra Chouldechova"
@@ -28,14 +14,28 @@ organizers_row:
     url: "https://www.andrew.cmu.edu/user/achoulde/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-  # - image_path: assets/images/xiang.jpg
-  #   alt: "Xiang Ren"
-  #   title: "Xiang Ren"
-  #   excerpt: "USC"
-  #   url: "http://ink-ron.usc.edu/xiangren/"
-  #   btn_label: "Homepage"
-  #   btn_class: "btn--primary"
-# students:
+  - image_path: assets/images/hima.png
+    alt: "Himabindu Lakkaraju"
+    title: "Himabindu Lakkaraju"
+    excerpt: "Harvard University"
+    url: "https://himalakkaraju.github.io/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+  - image_path: assets/images/mani_srivastava.jpeg
+    alt: "Mani Srivastava"
+    title: "Mani Srivastava"
+    excerpt: "UC Los Angeles"
+    url: "https://www.ee.ucla.edu/mani-srivastava/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+  - image_path: assets/images/wei_wang.png
+    alt: "Wei Wang"
+    title: "Wei Wang"
+    excerpt: "UC Los Angeles"
+    url: "http://web.cs.ucla.edu/~weiwang/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+students:
 #   - image_path: assets/images/shushan.png
 #     alt: "Shushan Arakelyan"
 #     title: "Shushan Arakelyan"
@@ -43,13 +43,13 @@ organizers_row:
 #     url: "https://shushanarakelyan.github.io/"
 #     btn_label: "Homepage"
 #     btn_class: "btn--primary"
-#   - image_path: assets/images/harvineet.png
-#     alt: "Harvineet Singh"
-#     title: "Harvineet Singh"
-#     excerpt: "NYU"
-#     url: "https://harvineet.github.io/"
-#     btn_label: "Homepage"
-#     btn_class: "btn--primary"
+  - image_path: assets/images/harvineet.png
+    alt: "Harvineet Singh"
+    title: "Harvineet Singh"
+    excerpt: "New York University"
+    url: "https://harvineet.github.io/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
 #   - image_path: assets/images/dylan.png
 #     alt: "Dylan Slack"
 #     title: "Dylan Slack"
@@ -129,9 +129,9 @@ We plan to solicit short paper submissions for “deep learning critique” from
 
 {% include feature_row id="organizers_row" %}
 
-<!-- ## Student co-organizers
+## Student Organizer
 
-{% include feature_row id="students" %} -->
+{% include feature_row id="students" %}
 
 </section>
 
