@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "KDD Deep Learning Day 2021"
-subtitle: Understanding the Limits and Pushing the Boundaries of Deep Learning
+title: "KDD Trustworthy AI Day 2022"
+# subtitle: Understanding the Limits and Pushing the Boundaries of Deep Learning
 # email: sameer@uci.edu
 description: 
-- KDD 2021, August 15, 2021, Virtual.
-- Virtual
+- KDD 2022, August 15, 2022.
+# - Virtual
 # twitter_username: username
 # github_username: uci-ml-repo
 minimal_mistakes_skin: contrast
@@ -67,15 +67,15 @@ footer:
     - label: "@hima_lakkaraju"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/hima_lakkaraju"
-    - label: "@sameer_"
+    - label: "@achould"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sameer_"
-    - label: "@baharanm"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/baharanm"
-    - label: "@xiangrenNLP"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/xiangrenNLP"
+      url: "https://twitter.com/achould"
+    # - label: "@baharanm"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/baharanm"
+    # - label: "@xiangrenNLP"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/xiangrenNLP"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/uci-ml-repo"

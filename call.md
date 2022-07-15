@@ -8,7 +8,9 @@ classes: wide
 author_profile: false
 ---
 
-We invite submissions for position and/or perspective talks that critically examine common practices and/or trends in theory, methodology, datasets, empirical or ethical standards, publication models, or any other aspect of deep learning research. While we are happy to bring attention to problems with no immediate solutions, we particularly encourage papers which propose a solution or indicate a way forward. Topics of interest include, but are not limited to: 
+**In progress**
+
+<!-- We invite submissions for position and/or perspective talks that critically examine common practices and/or trends in theory, methodology, datasets, empirical or ethical standards, publication models, or any other aspect of deep learning research. While we are happy to bring attention to problems with no immediate solutions, we particularly encourage papers which propose a solution or indicate a way forward. Topics of interest include, but are not limited to: 
 1. Theoretical understanding of deep learning 
 2. Scalability challenges and solutions for deep learning
 3. Fairness, transparency, privacy, and ethical implications of deep learning
@@ -36,20 +38,20 @@ We welcome submissions that describe either (a) unresolved questions in theoreti
 ### Submission Instructions and Logistics
 Each accepted submission will be presented as a talk (of duration 15 to 30 mins) at the deep learning day of the KDD 2021 conference which will be held virtually on August 18th, 2021. 
 
-Each submission should be a 2-page extended abstract formatted using the [ACM paper template](https://www.acm.org/publications/proceedings-template) and uploaded as a PDF. The submission should include a detailed outline of all the material that the author(s) plan to discuss in their talk. The 2-page submission should also include a brief (1-2 paragraph) bio of the main speaker at the end. Authors are free to include an additional two pages of appendix/supplementary material in the submission pdf. 
+Each submission should be a 2-page extended abstract formatted using the [ACM paper template](https://www.acm.org/publications/proceedings-template) and uploaded as a PDF. The submission should include a detailed outline of all the material that the author(s) plan to discuss in their talk. The 2-page submission should also include a brief (1-2 paragraph) bio of the main speaker at the end. Authors are free to include an additional two pages of appendix/supplementary material in the submission pdf.  -->
 
-**Submission Website**:  [https://cmt3.research.microsoft.com/KDDDLD2021/Submission/Index](https://cmt3.research.microsoft.com/KDDDLD2021/Submission/Index)
+**Submission Website**:  [https://trustworthyaiday.github.io/](https://trustworthyaiday.github.io/)
 
 
 ### Important Dates:
 
-**Paper Submission Deadline:**  ~~July 1st, 2021~~ July 9th, 2021 11.59pm AoE  
-**Author Notification:**        ~~July 14th, 2021~~ July 21st, 2021 11.59pm AoE  
-**Camera Ready Deadline:**    August 1st, 2021 11.59pm AoE  
+**Paper Submission Deadline:**  TBD  
+**Author Notification:**        TBD  
+**Camera Ready Deadline:**    TBD  
 
    
 
-**<font size="4"> References</font>**:
+<!-- **<font size="4"> References</font>**:
 <font size="3">
 [1] Marcus, Gary (2018). Deep learning: A critical appraisal. arXiv preprint arXiv:1801.00631.  <br>
 
@@ -60,4 +62,4 @@ Each submission should be a 2-page extended abstract formatted using the [ACM pa
 [4] Lipton, Zachary C., and Jacob Steinhardt (2018). "Troubling Trends in Machine Learning Scholarship." arXiv preprint arXiv:1807.03341.   <br>
 
 [5] Amodei, Dario, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané (2016). "Concrete problems in AI safety." arXiv preprint arXiv:1606.06565.   <br>
-</font> 
+</font>  -->

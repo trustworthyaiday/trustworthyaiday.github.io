@@ -7,78 +7,40 @@ layout: single
 classes: wide
 author_profile: false
 ---
-KDD Deep Learning Day 2021 will take place on **August 18, 8am-5pm PST**. 
+KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**. 
 
 <table class="tg">
 <tbody>
   <tr>
-    <th class="tg-feht">7:50am</th>
-    <th class="tg-feht">8:00am</th>
+    <th class="tg-feht">8:30am</th>
+    <th class="tg-feht">8:40am</th>
     <th class="tg-feht">Opening Remarks</th>
-    <th class="tg-feht">Sameer Singh</th>
+    <th class="tg-feht"></th>
   </tr>
   <tr>
-    <td class="tg-73oq">8:00am</td>
-    <td class="tg-73oq">8:30am</td>
-    <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://www.cs.cmu.edu/~epxing/">Eric Xing</a> (MBZUAI/Petuum/CMU): "It is time for deep learning to understand its expense bills"</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">8:30am</td>
-    <td class="tg-73oq">8:45am</td>
-    <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"><a href="http://cseweb.ucsd.edu/~arunkk/">Arun Kumar</a> (UC San Diego): "Some Damaging Delusions of Deep Learning Practice (and How to Avoid Them)</td>
-    <td class="tg-73oq"></td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">8:45am</td>
-    <td class="tg-73oq">9:15am</td>
-    <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a> (UC Berkeley): "Building towards a Responsible Data Economy"</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">9:15am</td>
-    <td class="tg-73oq">9:30am</td>
-    <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://www.linkedin.com/in/dipu1025/">Deepak Agarwal</a> (Pinterest): "Deep learning to power user engagement on Pinterest"</td>
+    <td class="tg-73oq">8:40am</td>
+    <td class="tg-73oq">9:40am</td>
+    <td class="tg-73oq">Plenary: Trust and Trustworthiness</td>
+    <td class="tg-73oq"><a href="https://www.nist.gov/people/elham-tabassi">Elham Tabassi</a> (Chief of Staff, Information Technology Laboratory National Institute of Standards and Technology)</td>
   </tr>
   <tr>
     <td class="tg-65px">9:30am</td>
-    <td class="tg-65px">9:45am</td>
-    <td class="tg-65px">Break</td>
+    <td class="tg-65px">10:00am</td>
+    <td class="tg-65px">Coffee Break</td>
     <td class="tg-65px"></td>
   </tr>
   <tr>
-    <td class="tg-73oq">9:45am</td>
-    <td class="tg-73oq">10:15am</td>
-    <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://besmiranushi.com/">Besmira Nushi</a> (Microsoft Research): "On Debugging Machine Learning Models and Systems: Challenges, Myths, Tools"</td>
+    <td class="tg-73oq">10:00am</td>
+    <td class="tg-73oq">11:05am</td>
+    <td class="tg-73oq">Invited Talks</td>
+    <td class="tg-73oq"><a href="https://www.nist.gov/people/brian-stanton">Brian Stanton</a> (NIST Project Lead for AI User Trust), <br> <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-dverma">Dinesh Verma</a> (IBM Research CTO for Edge computing), <br> <a href="https://www.cs.memphis.edu/~santosh/">Santosh Kumar</a> (U Memphis Director for NIH NIBIB mHealth Center for Discovery, Optimization, and Translation of Temporally-Precise Interventions)</td>
+    <td class="tg-73oq"></td>
   </tr>
   <tr>
-    <td class="tg-73oq">10:15am</td>
-    <td class="tg-73oq">10:30am</td>
-    <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"><a href="https://ddkang.github.io/">Daniel Kang</a> (Stanford): "Monitoring and Quality Assurance of Complex ML Deployments via Assertions"</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">10:30am</td>
-    <td class="tg-73oq">10:45am</td>
-    <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"><a href="http://web.cse.ohio-state.edu/~gurukar.1/">Saket Gurukar</a> (Ohio State University): "Unsupervised Network Representation Learning and the Illusion of Progress"</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">10:45am</td>
-    <td class="tg-73oq">11:15am</td>
-    <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://people.csail.mit.edu/madry/">Aleksander Madry</a> (MIT): "Why Do ML Models Fail?"</td>
-  </tr>
-  <tr>
-    <td class="tg-vwhn">11:15am</td>
+    <td class="tg-vwhn">11:05pm</td>
     <td class="tg-vwhn">12:00pm</td>
-    <td class="tg-vwhn">Panel</td>
-    <td class="tg-vwhn">"Scaling and Debugging Deep Learning Systems" 
-Panelists: Eric Xing, Deepak Agarwal, Besmira Nushi, Aleksander Madry, Arun Kumar, Daniel Kang, Saket Gurukar  
-Moderators: Baharan Mirzasoleiman & Hima Lakkaraju</td>
+    <td class="tg-vwhn">Panel Discussion</td>
+    <td class="tg-vwhn">Panelists: Brian Stanton, Dinesh Verma, Santosh Kumar</td>
   </tr>
   <tr>
     <td class="tg-65px">12:00pm</td>
@@ -88,71 +50,39 @@ Moderators: Baharan Mirzasoleiman & Hima Lakkaraju</td>
   </tr>
   <tr>
     <td class="tg-73oq">1:00pm</td>
-    <td class="tg-73oq">1:30pm</td>
-    <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://www.james-zou.com/">James Zou</a> (Stanford): "A data-centric view of trustworthy AI"</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">1:30pm</td>
-    <td class="tg-73oq">1:45pm</td>
-    <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"><a href="http://www-personal.umich.edu/~harmank/">Harman Kaur</a> (UMichigan): "Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning"</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">1:45pm</td>
     <td class="tg-73oq">2:00pm</td>
-    <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"><a href="https://www.cs.toronto.edu/~madras/">David Madras</a> (UToronto): "Why Learn Fair Representations?"</td>
+    <td class="tg-73oq">Plenary</td>
+    <td class="tg-73oq"><a href="https://sites.google.com/view/jpei/jian-peis-homepage">Jian Pei</a></td>
   </tr>
   <tr>
     <td class="tg-73oq">2:00pm</td>
-    <td class="tg-73oq">2:30pm</td>
-    <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="http://www.bewitched.com/">Martin Wattenberg</a> (Google PAIR/Harvard CS): "Visualization for Human and Machine Learning"</td>
+    <td class="tg-73oq">3:00pm</td>
+    <td class="tg-73oq">Invited + Contributed Talks</td>
+    <td class="tg-73oq"><a href="http://qveraliao.com/">Q. Vera Liao</a> (Microsoft Research Montréal), <br> <a href="https://www.james-zou.com/">James Zou</a> (Stanford University), <br> <a href="http://jpdickerson.com/">John P. Dickerson</a> (University of Maryland)</td>
   </tr>
   <tr>
-    <td class="tg-65px">2:30pm</td>
-    <td class="tg-65px">2:45pm</td>
-    <td class="tg-65px">Break</td>
+    <td class="tg-65px">3:00pm</td>
+    <td class="tg-65px">3:30pm</td>
+    <td class="tg-65px">Coffee Break</td>
     <td class="tg-65px"></td>
   </tr>
   <tr>
-    <td class="tg-73oq">2:45pm</td>
-    <td class="tg-73oq">3:15pm</td>
-    <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://jasondlee88.github.io/">Jason Lee</a> (Princeton): "Provable Representation Learning"</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">3:15pm</td>
     <td class="tg-73oq">3:30pm</td>
-    <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"><a href="https://users.soe.ucsc.edu/~astolman/">Andrew Stolman</a> (KatanaGraph): "Studying the (in)-effectiveness of graph embeddings"</td>
+    <td class="tg-73oq">4:10pm</td>
+    <td class="tg-73oq">Invited + Contributed Talks</td>
+    <td class="tg-73oq"><a href="https://iddp.gwu.edu/susan-ariel-aaronson">Susan Aaronson</a> (George Washington University), <br> <a href="https://www.karen-levy.net/">Karen Levy</a> (Cornell University), <br> <a href="https://annewashington.com/">Anne Washington</a> (New York University), <br> David James Marcos (Microsoft, Director, Governance & Enablement)</td>
   </tr>
   <tr>
-    <td class="tg-73oq">3:30pm</td>
-    <td class="tg-73oq">3:45pm</td>
-    <td class="tg-73oq">Contributed Talk</td>
-    <td class="tg-73oq"><a href="https://tianlong-chen.github.io/about/">Tianlong Chen</a> (UT Austin): "The lottery ticket hypothesis for gigantic pre-trained models"</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">3:45pm</td>
-    <td class="tg-73oq">4:15pm</td>
-    <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://yasamanb.github.io/">Yasaman Bahri</a> (Google Brain): "Understanding Neural Scaling Laws"</td>
-  </tr>
-  <tr>
-    <td class="tg-vwhn">4:15pm</td>
+    <td class="tg-vwhn">4:10pm</td>
     <td class="tg-vwhn">5:00pm</td>
-    <td class="tg-vwhn">Panel</td>
-    <td class="tg-vwhn">"Understanding of DL Systems: Transparency, Fairness, and Theory"
-Panelists: James Zou, Yasaman Bahri,  Martin Wattenberg, Harman Kaur, David Madras
-Moderators: Hima Lakkaraju & Baharan Mirzasoleiman</td>
+    <td class="tg-vwhn">Panel Discussion</td>
+    <td class="tg-vwhn">Panelists: Susan Aaronson, Karen Levy, Anne Washington, David James Marcos</td>
   </tr>
   <tr>
     <td class="tg-feht">5:00pm</td>
     <td class="tg-feht"></td>
     <td class="tg-feht">Closing Remarks</td>
-    <td class="tg-feht">Xiang Ren</td>
+    <td class="tg-feht"></td>
   </tr>
 </tbody>
 </table>
