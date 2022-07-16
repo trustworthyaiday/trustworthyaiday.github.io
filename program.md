@@ -24,7 +24,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">
       <a href="https://www.nist.gov/people/elham-tabassi">
       Elham Tabassi</a> (National Institute of Standards and Technology - Chief of Staff, Information Technology Laboratory)
-      <br>&nbsp;&nbsp;<a href="#Elham_Tabassi">Title</a>
+      <br>&nbsp;&nbsp;<em>Title: TBD</em>(<a href="#Elham_Tabassi">&#128279;</a>)
       <br>*Session Chair: Wei Wang (UCLA)*
     </td>
   </tr>
@@ -40,14 +40,14 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
       <a href="https://www.nist.gov/people/brian-stanton">Brian Stanton</a> (NIST Project Lead for AI User Trust)
-      <br>&nbsp;&nbsp;<a href="#Brian_Stanton">Title</a>
+      <br>&nbsp;&nbsp;<em>Title: TBD</em>(<a href="#Brian_Stanton">&#128279;</a>)
       <br> <a href="https://www.linkedin.com/in/davidjamesmarcos/">David James Marcos</a> (Microsoft - Director, Governance & Enablement: Office of Responsible AI)
-      <br>&nbsp;&nbsp;<a href="#David_Marcos">Title</a>
+      <br>&nbsp;&nbsp;<em>Title: TBD</em>(<a href="#David_Marcos">&#128279;</a>)
       <br> <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-dverma">Dinesh Verma</a> (IBM Research - CTO for Edge computing)
-      <br>&nbsp;&nbsp;<a href="#Dinesh_Verma">Trusting the outcomes of AI models: Experiences from Applications of AI in IoT Solutions</a>
+      <br>&nbsp;&nbsp;<em>Title: Trusting the outcomes of AI models: Experiences from Applications of AI in IoT Solutions</em>(<a href="#Dinesh_Verma">&#128279;</a>)
       <br> <a href="https://www.cs.memphis.edu/~santosh/">Santosh Kumar</a> (U. Memphis - Director, NIH NIBIB mHealth Center 
       <br>for Discovery, Optimization, and Translation of Temporally-Precise Interventions)
-      <br>&nbsp;&nbsp;<a href="#Santosh_Kumar">Title</a>
+      <br>&nbsp;&nbsp;<em>Title: TBD</em>(<a href="#Santosh_Kumar">&#128279;</a>)
       <br><br>*Session Chair: Yizhou Sun (UCLA)*</td>
     <td class="tg-73oq"></td>
   </tr>
@@ -69,7 +69,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">Keynote #2</td>
     <td class="tg-73oq">
       <a href="https://sites.google.com/view/jpei/jian-peis-homepage">Jian Pei</a> (Duke University)
-      <br>&nbsp;&nbsp;<a href="#Jian_Pei">Title</a>
+      <br>&nbsp;&nbsp;<em>Title: TBD</em>(<a href="#Jian_Pei">&#128279;</a>)
       <br>*Session Chair: Wei Wang (UCLA)*</td>
   </tr>
   <tr>
@@ -78,11 +78,11 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
       <a href="http://qveraliao.com/">Q. Vera Liao</a> (Microsoft Research Montréal)
-      <br>&nbsp;&nbsp;<a href="#Vera_Liao">Title</a>
+      <br>&nbsp;&nbsp;<em>Title: TBD</em>(<a href="#Vera_Liao">&#128279;</a>)
       <br> <a href="https://www.james-zou.com/">James Zou</a> (Stanford University)
-      <br>&nbsp;&nbsp;<a href="#James_Zou">Title</a>
+      <br>&nbsp;&nbsp;<em>Title: TBD</em>(<a href="#James_Zou">&#128279;</a>)
       <br> <a href="http://jpdickerson.com/">John P. Dickerson</a> (University of Maryland)
-      <br>&nbsp;&nbsp;<a href="#John_Dickerson">Title</a>
+      <br>&nbsp;&nbsp;<em>Title: TBD</em>(<a href="#John_Dickerson">&#128279;</a>)
       <br>*Session Chair: Alexandra Chouldechova (CMU)*</td>
   </tr>
   <tr>
@@ -97,11 +97,12 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
       <a href="https://iddp.gwu.edu/susan-ariel-aaronson">Susan Aaronson</a> (George Washington University)
-      <br>&nbsp;&nbsp;<a href="#Susan_Aaronson">Title</a>
+      <br>&nbsp;&nbsp;<em>Title: TBD</em>(<a href="#Susan_Aaronson">&#128279;</a>)
       <br> <a href="https://www.karen-levy.net/">Karen Levy</a> (Cornell University)
-      <br>&nbsp;&nbsp;<a href="#Karen_Levy">Title</a>
+      <br>&nbsp;&nbsp;<em>Title: TBD</em>(<a href="#Karen_Levy">&#128279;</a>)
       <br> <a href="https://annewashington.com/">Anne Washington</a> (New York University)
       <br>&nbsp;&nbsp;<a href="#Anne_Washington">Title</a>
+      <br>&nbsp;&nbsp;<em>Title: TBD</em>(<a href="#Anne_Washington">&#128279;</a>)
       <br>*Session Chair: Alexandra Chouldechova (CMU)*</td>
   </tr>
   <tr>
@@ -123,25 +124,34 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
 </tbody>
 </table>
 
-#Talk and Speaker Details 
+# Talk and Speaker Details 
 
-##<a id="Elham_Tabassi">Elham Tabassi</a>
+## <a id="Elham_Tabassi">Elham Tabassi</a>
+
 >_Title:_ TBD
+
 >_Abstract:_ TBD
+
 >_Biography:_ TBD
 
-##<a id="Brian_Stanton">Brian Stanton</a>
+## <a id="Brian_Stanton">Brian Stanton</a>
+
 >_Title:_ TBD
+
 >_Abstract:_ TBD
+
 >_Biography:_ TBD
 
-##<a id="David_Marcos">David James Marcos</a>
+## <a id="David_Marcos">David James Marcos</a>
+
 >_Title:_ TBD
+
 >_Abstract:_ TBD
+
 >_Biography:_ TBD
 
 <a id="Dinesh_Verma"></a>
-##Dinesh Verma
+## Dinesh Verma
 
 >_Title:_ Trusting the outcomes of AI models: Experiences from Applications of AI in IoT Solutions”
 
@@ -149,42 +159,66 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
 
 >_Biography:_ Dinesh C. Verma is a Fellow of UK Royal Academy of Engineering, an IEEE Fellow and an IBM Fellow. Currently, he is working as the Chief Scientist of the Research Consulting Program with a focus on US Public Sector. He has authored 11 books, 150+ technical papers and 185+ U.S. patents. He has chaired/vice-chaired IEEE technical committee on computer communications, as well as IEEE Internet technical committee. He has served on various program committees and editorial boards. He is a member of the IBM Academy of Technology, an IBM Master Inventor, and won several IBM internal technical awards. He has contributed to several IBM products and service offerings including significant contributions to server networking stack, network management products, edge computing and cellular network analytics. He has led several multi-national multi-organizational research programs. More details about Dinesh can be seen at [http://ibm.biz/dineshverma](http://ibm.biz/dineshverma)
 
-##<a id="Santosh_Kumar">Santosh Kumar</a>
+## <a id="Santosh_Kumar">Santosh Kumar</a>
+
 >_Title:_ TBD
+
 >_Abstract:_ TBD
+
 >_Biography:_ TBD
 
-##<a id="Jian_Pei">Jian Pei</a>
+## <a id="Jian_Pei">Jian Pei</a>
+
 >_Title:_ TBD
+
 >_Abstract:_ TBD
+
 >_Biography:_ TBD
 
-##<a id="Vera_Liao">Q. Vera Liao</a>
+## <a id="Vera_Liao">Q. Vera Liao</a>
+
 >_Title:_ TBD
+
 >_Abstract:_ TBD
+
 >_Biography:_ TBD
 
-##<a id="James_Zou">James Zou</a>
+## <a id="James_Zou">James Zou</a>
+
 >_Title:_ TBD
+
 >_Abstract:_ TBD
+
 >_Biography:_ TBD
 
-##<a id="John_Dickerson">John P. Dickerson</a>
+## <a id="John_Dickerson">John P. Dickerson</a>
+
 >_Title:_ TBD
+
 >_Abstract:_ TBD
+
 >_Biography:_ TBD
 
-##<a id="Susan_Aaronson">Susan Aaronson</a>
+## <a id="Susan_Aaronson">Susan Aaronson</a>
+
 >_Title:_ TBD
+
 >_Abstract:_ TBD
+
 >_Biography:_ TBD
 
-##<a id="Karen_Levy">Karen Levy</a>
+## <a id="Karen_Levy">Karen Levy</a>
+
 >_Title:_ TBD
+
 >_Abstract:_ TBD
+
 >_Biography:_ TBD
 
-##<a id="Anne_Washington">Anne Washington</a>
+## <a id="Anne_Washington">Anne Washington</a>
+
 >_Title:_ TBD
+
 >_Abstract:_ TBD
+
 >_Biography:_ TBD
