@@ -24,7 +24,7 @@ organizers_row:
     btn_class: "btn--primary"
   - image_path: assets/images/mani_srivastava.jpg
     alt: "Mani Srivastava"
-    title: "Mani Srivastava"
+    image_caption: "Mani Srivastava [&#128279](https://www.seas.ucla.edu/~mbs/)"
     excerpt: "UC Los Angeles"
     url: "https://www.seas.ucla.edu/~mbs/"
     btn_label: "Homepage"
