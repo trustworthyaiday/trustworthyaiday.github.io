@@ -20,8 +20,8 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
   <tr>
     <td class="tg-73oq">8:40am</td>
     <td class="tg-73oq">9:40am</td>
-    <td class="tg-73oq">Plenary: Trust and Trustworthiness</td>
-    <td class="tg-73oq"><a href="https://www.nist.gov/people/elham-tabassi">Elham Tabassi</a> (Chief of Staff, Information Technology Laboratory National Institute of Standards and Technology)</td>
+    <td class="tg-73oq">Keynote #1</td>
+    <td class="tg-73oq"><a href="https://www.nist.gov/people/elham-tabassi">Elham Tabassi</a> (Chief of Staff, Information Technology Laboratory National Institute of Standards and Technology)<br>Session Chair: Wei Wang (UCLA)</td>
   </tr>
   <tr>
     <td class="tg-65px">9:30am</td>
@@ -33,14 +33,14 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">10:00am</td>
     <td class="tg-73oq">11:05am</td>
     <td class="tg-73oq">Invited Talks</td>
-    <td class="tg-73oq"><a href="https://www.nist.gov/people/brian-stanton">Brian Stanton</a> (NIST Project Lead for AI User Trust), <br> <a href="https://www.linkedin.com/in/davidjamesmarcos/">David James Marcos</a> (Microsoft, Director, Governance & Enablement: Office of Responsible AI), <br> <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-dverma">Dinesh Verma</a> (IBM Research CTO for Edge computing), <br> <a href="https://www.cs.memphis.edu/~santosh/">Santosh Kumar</a> (U Memphis Director for NIH NIBIB mHealth Center <br>for Discovery, Optimization, and Translation of Temporally-Precise Interventions)</td>
+    <td class="tg-73oq"><a href="https://www.nist.gov/people/brian-stanton">Brian Stanton</a> (NIST Project Lead for AI User Trust), <br> <a href="https://www.linkedin.com/in/davidjamesmarcos/">David James Marcos</a> (Microsoft, Director, Governance & Enablement: Office of Responsible AI), <br> <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-dverma">Dinesh Verma</a> (IBM Research CTO for Edge computing), <br> <a href="https://www.cs.memphis.edu/~santosh/">Santosh Kumar</a> (U Memphis Director for NIH NIBIB mHealth Center <br>for Discovery, Optimization, and Translation of Temporally-Precise Interventions)<br>Session Chair: Yizhou Sun (UCLA)</td>
     <td class="tg-73oq"></td>
   </tr>
   <tr>
     <td class="tg-vwhn">11:05pm</td>
     <td class="tg-vwhn">12:00pm</td>
     <td class="tg-vwhn">Panel Discussion</td>
-    <td class="tg-vwhn">Panelists: Elham Tabassi, Brian Stanton, David James Marcos, Dinesh Verma, Santosh Kumar</td>
+    <td class="tg-vwhn">Panelists: Elham Tabassi, Brian Stanton, David James Marcos, Dinesh Verma, Santosh Kumar<br>Panel Moderator: Yizhou Sun (UCLA)</td>
   </tr>
   <tr>
     <td class="tg-65px">12:00pm</td>
@@ -51,14 +51,14 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
   <tr>
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">2:00pm</td>
-    <td class="tg-73oq">Plenary</td>
-    <td class="tg-73oq"><a href="https://sites.google.com/view/jpei/jian-peis-homepage">Jian Pei</a> (Duke University)</td>
+    <td class="tg-73oq">Keynote #2</td>
+    <td class="tg-73oq"><a href="https://sites.google.com/view/jpei/jian-peis-homepage">Jian Pei</a> (Duke University)<br>Session Chair: Wei Wang (UCLA)</td>
   </tr>
   <tr>
     <td class="tg-73oq">2:00pm</td>
     <td class="tg-73oq">3:00pm</td>
     <td class="tg-73oq">Invited Talks</td>
-    <td class="tg-73oq"><a href="http://qveraliao.com/">Q. Vera Liao</a> (Microsoft Research Montréal), <br> <a href="https://www.james-zou.com/">James Zou</a> (Stanford University), <br> <a href="http://jpdickerson.com/">John P. Dickerson</a> (University of Maryland)</td>
+    <td class="tg-73oq"><a href="http://qveraliao.com/">Q. Vera Liao</a> (Microsoft Research Montréal), <br> <a href="https://www.james-zou.com/">James Zou</a> (Stanford University), <br> <a href="http://jpdickerson.com/">John P. Dickerson</a> (University of Maryland)<br>Session Chair: Alexandra Chouldechova (CMU)</td>
   </tr>
   <tr>
     <td class="tg-65px">3:00pm</td>
@@ -70,13 +70,13 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">3:30pm</td>
     <td class="tg-73oq">4:10pm</td>
     <td class="tg-73oq">Invited Talks</td>
-    <td class="tg-73oq"><a href="https://iddp.gwu.edu/susan-ariel-aaronson">Susan Aaronson</a> (George Washington University), <br> <a href="https://www.karen-levy.net/">Karen Levy</a> (Cornell University), <br> <a href="https://annewashington.com/">Anne Washington</a> (New York University)</td>
+    <td class="tg-73oq"><a href="https://iddp.gwu.edu/susan-ariel-aaronson">Susan Aaronson</a> (George Washington University), <br> <a href="https://www.karen-levy.net/">Karen Levy</a> (Cornell University), <br> <a href="https://annewashington.com/">Anne Washington</a> (New York University)<br>Session Chair: Alexandra Chouldechova (CMU)</td>
   </tr>
   <tr>
     <td class="tg-vwhn">4:10pm</td>
     <td class="tg-vwhn">5:00pm</td>
     <td class="tg-vwhn">Panel Discussion</td>
-    <td class="tg-vwhn">Panelists: Jian Pei, Q. Vera Liao, James Zou, John P. Dickerson, <br>Susan Aaronson, Karen Levy, Anne Washington</td>
+    <td class="tg-vwhn">Panelists: Jian Pei, Q. Vera Liao, James Zou, John P. Dickerson, <br>Susan Aaronson, Karen Levy, Anne Washington<br>Panel Moderator: Alexandra Chouldechova (CMU)</td>
   </tr>
   <tr>
     <td class="tg-feht">5:00pm</td>
