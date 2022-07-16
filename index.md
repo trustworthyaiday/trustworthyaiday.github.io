@@ -9,11 +9,12 @@ author_profile: false
 organizers_row:
   - image_path: assets/images/alex_chouldechova.jpg
     alt: "Alexandra Chouldechova"
-    title: "[Alexandra Chouldechova](https://www.andrew.cmu.edu/user/achoulde/)"
+    title: "Alexandra Chouldechova"
     excerpt: "Carnegie Mellon University"
-    #url: "https://www.andrew.cmu.edu/user/achoulde/"
-    #btn_label: "Homepage"
-    #btn_class: "btn--primary"
+    url: "https://www.andrew.cmu.edu/user/achoulde/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+    #&#128279
   - image_path: assets/images/hima.png
     alt: "Himabindu Lakkaraju"
     title: "Himabindu Lakkaraju"
