@@ -23,7 +23,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">Keynote #1</td>
     <td class="tg-73oq">
       <a href="https://www.nist.gov/people/elham-tabassi">
-      Elham Tabassi</a> (National Institute of Standards and Technology - Chief of Staff, Information Technology Laboratory)
+      Elham Tabassi</a> (NIST - Chief of Staff, Information Technology Laboratory)
       <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#Elham_Tabassi">&#128279;</a>)
       <br>*Session Chair: Wei Wang (UCLA)*
     </td>
@@ -39,7 +39,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">11:05am</td>
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
-      <a href="https://www.nist.gov/people/brian-stanton">Brian Stanton</a> (NIST Project Lead for AI User Trust)
+      <a href="https://www.nist.gov/people/brian-stanton">Brian Stanton</a> (NIST - Project Lead for AI User Trust)
       <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#Brian_Stanton">&#128279;</a>)
       <br> <a href="https://www.linkedin.com/in/davidjamesmarcos/">David James Marcos</a> (Microsoft - Director, Governance & Enablement: Office of Responsible AI)
       <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#David_Marcos">&#128279;</a>)
