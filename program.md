@@ -124,101 +124,115 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
 </tbody>
 </table>
 
+<br />
+<br />
+<br />
 # Talk and Speaker Details 
 
-## <a id="Elham_Tabassi">Elham Tabassi</a>
+<a id="Elham_Tabassi"></a>
+## Elham Tabassi
 
->_Title:_ TBD
+> _Title:_ TBD
 
->_Abstract:_ TBD
+> _Abstract:_ TBD
 
->_Biography:_ TBD
+> _Biography:_ TBD
 
-## <a id="Brian_Stanton">Brian Stanton</a>
+<a id="Brian_Stanton"></a>
+## Brian Stanton
 
->_Title:_ TBD
+> _Title:_ TBD
 
->_Abstract:_ TBD
+> _Abstract:_ TBD
 
->_Biography:_ TBD
+> _Biography:_ TBD
 
-## <a id="David_Marcos">David James Marcos</a>
+<a id="David_Marcos"></a>
+## David James Marcos
 
->_Title:_ TBD
+> _Title:_ TBD
 
->_Abstract:_ TBD
+> _Abstract:_ TBD
 
->_Biography:_ TBD
+> _Biography:_ TBD
 
 <a id="Dinesh_Verma"></a>
 ## Dinesh Verma
 
->_Title:_ Trusting the outcomes of AI models: Experiences from Applications of AI in IoT Solutions”
+> _Title:_ Trusting the outcomes of AI models: Experiences from Applications of AI in IoT Solutions”
 
->_Abstract:_ Although the applications of AI and Machine Learning holds the promise of significant improvements in creating IoT solutions, a careless application of AI may do more harm than good.  Application of AI needs to be done with a careful understanding of the assumptions underlying the data for training, and exploring the differences in the training environment and the operational environment. In the course of deploying AI based solutions to tasks such as detection of IoT devices in the network, or in the use of acoustics for various IoT solutions, we came across several challenges in making AI based solutions work in a reliable and trustworthy manner.  On those experiences, we have drawn up a set of best practices for use of AI technologies in IoT solutions to develop resilient and trustworthy solutions. We believe these best practices should generalize to applications of AI in general, and would provide an overview of the same in the talk.
+> _Abstract:_ Although the applications of AI and Machine Learning holds the promise of significant improvements in creating IoT solutions, a careless application of AI may do more harm than good.  Application of AI needs to be done with a careful understanding of the assumptions underlying the data for training, and exploring the differences in the training environment and the operational environment. In the course of deploying AI based solutions to tasks such as detection of IoT devices in the network, or in the use of acoustics for various IoT solutions, we came across several challenges in making AI based solutions work in a reliable and trustworthy manner.  On those experiences, we have drawn up a set of best practices for use of AI technologies in IoT solutions to develop resilient and trustworthy solutions. We believe these best practices should generalize to applications of AI in general, and would provide an overview of the same in the talk.
 
->_Biography:_ Dinesh C. Verma is a Fellow of UK Royal Academy of Engineering, an IEEE Fellow and an IBM Fellow. Currently, he is working as the Chief Scientist of the Research Consulting Program with a focus on US Public Sector. He has authored 11 books, 150+ technical papers and 185+ U.S. patents. He has chaired/vice-chaired IEEE technical committee on computer communications, as well as IEEE Internet technical committee. He has served on various program committees and editorial boards. He is a member of the IBM Academy of Technology, an IBM Master Inventor, and won several IBM internal technical awards. He has contributed to several IBM products and service offerings including significant contributions to server networking stack, network management products, edge computing and cellular network analytics. He has led several multi-national multi-organizational research programs. More details about Dinesh can be seen at [http://ibm.biz/dineshverma](http://ibm.biz/dineshverma)
+> _Biography:_ Dinesh C. Verma is a Fellow of UK Royal Academy of Engineering, an IEEE Fellow and an IBM Fellow. Currently, he is working as the Chief Scientist of the Research Consulting Program with a focus on US Public Sector. He has authored 11 books, 150+ technical papers and 185+ U.S. patents. He has chaired/vice-chaired IEEE technical committee on computer communications, as well as IEEE Internet technical committee. He has served on various program committees and editorial boards. He is a member of the IBM Academy of Technology, an IBM Master Inventor, and won several IBM internal technical awards. He has contributed to several IBM products and service offerings including significant contributions to server networking stack, network management products, edge computing and cellular network analytics. He has led several multi-national multi-organizational research programs. More details about Dinesh can be seen at [http://ibm.biz/dineshverma](http://ibm.biz/dineshverma)
 
-## <a id="Santosh_Kumar">Santosh Kumar</a>
+<a id="Santosh_Kumar"></a>
+## Santosh Kumar
 
->_Title:_ TBD
+> _Title:_ TBD
 
->_Abstract:_ TBD
+> _Abstract:_ TBD
 
->_Biography:_ TBD
+> _Biography:_ TBD
 
-## <a id="Jian_Pei">Jian Pei</a>
+<a id="Jian_Pei"></a>
+## Jian Pei
 
->_Title:_ TBD
+> _Title:_ TBD
 
->_Abstract:_ TBD
+> _Abstract:_ TBD
 
->_Biography:_ TBD
+> _Biography:_ TBD
 
-## <a id="Vera_Liao">Q. Vera Liao</a>
+<a id="Vera_Liao"></a>
+## Q. Vera Liao
 
->_Title:_ TBD
+> _Title:_ TBD
 
->_Abstract:_ TBD
+> _Abstract:_ TBD
 
->_Biography:_ TBD
+> _Biography:_ TBD
 
-## <a id="James_Zou">James Zou</a>
+<a id="James_Zou"></a>
+## James Zou
 
->_Title:_ TBD
+> _Title:_ TBD
 
->_Abstract:_ TBD
+> _Abstract:_ TBD
 
->_Biography:_ TBD
+> _Biography:_ TBD
 
-## <a id="John_Dickerson">John P. Dickerson</a>
+<a id="John_Dickerson"></a>
+## John P. Dickerson
 
->_Title:_ TBD
+> _Title:_ TBD
 
->_Abstract:_ TBD
+> _Abstract:_ TBD
 
->_Biography:_ TBD
+> _Biography:_ TBD
 
-## <a id="Susan_Aaronson">Susan Aaronson</a>
+<a id="Susan_Aaronson"></a>
+## Susan Aaronson
 
->_Title:_ TBD
+> _Title:_ TBD
 
->_Abstract:_ TBD
+> _Abstract:_ TBD
 
->_Biography:_ TBD
+> _Biography:_ TBD
 
-## <a id="Karen_Levy">Karen Levy</a>
+<a id="Karen_Levy"></a>
+## Karen Levy
 
->_Title:_ TBD
+> _Title:_ TBD
 
->_Abstract:_ TBD
+> _Abstract:_ TBD
 
->_Biography:_ TBD
+> _Biography:_ TBD
 
-## <a id="Anne_Washington">Anne Washington</a>
+<a id="Anne_Washington"></a>
+## Anne Washington
 
->_Title:_ TBD
+> _Title:_ TBD
 
->_Abstract:_ TBD
+> _Abstract:_ TBD
 
->_Biography:_ TBD
+> _Biography:_ TBD
