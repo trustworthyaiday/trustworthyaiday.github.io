@@ -131,6 +131,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
 
 <a id="Elham_Tabassi"></a>
 ## Elham Tabassi
+![](assets/images/elham_tabassi.jpg)
 
 > **Title:** TBD
 
@@ -140,6 +141,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
 
 <a id="Brian_Stanton"></a>
 ## Brian Stanton
+![](assets/images/brian_stanton.jpg)
 
 > **Title:** TBD
 
@@ -169,6 +171,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
 
 <a id="Santosh_Kumar"></a>
 ## Santosh Kumar
+![](assets/images/santosh_kumar.jpg)
 
 > **Title:** TBD
 
