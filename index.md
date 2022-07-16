@@ -7,7 +7,7 @@ layout: single
 classes: wide
 author_profile: false
 organizers_row:
-  - image_path: assets/images/alex_chouldechova.jpeg
+  - image_path: assets/images/alex_chouldechova.jpg
     alt: "Alexandra Chouldechova"
     title: "Alexandra Chouldechova"
     excerpt: "Carnegie Mellon University"
@@ -21,7 +21,7 @@ organizers_row:
     url: "https://himalakkaraju.github.io/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-  - image_path: assets/images/mani_srivastava.jpeg
+  - image_path: assets/images/mani_srivastava.jpg
     alt: "Mani Srivastava"
     title: "Mani Srivastava"
     excerpt: "UC Los Angeles"
