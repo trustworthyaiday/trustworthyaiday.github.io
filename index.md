@@ -25,7 +25,7 @@ organizers_row:
     alt: "Mani Srivastava"
     title: "Mani Srivastava"
     excerpt: "UC Los Angeles"
-    url: "https://www.ee.ucla.edu/mani-srivastava/"
+    url: "https://www.seas.ucla.edu/~mbs/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
   - image_path: assets/images/wei_wang.png
@@ -33,6 +33,13 @@ organizers_row:
     title: "Wei Wang"
     excerpt: "UC Los Angeles"
     url: "http://web.cs.ucla.edu/~weiwang/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+  - image_path: assets/images/yizhou_sun.jpg
+    alt: "Yizhou Sun"
+    title: "Yizhou Sun"
+    excerpt: "UC Los Angeles"
+    url: "http://web.cs.ucla.edu/~yzsun/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
 students:
