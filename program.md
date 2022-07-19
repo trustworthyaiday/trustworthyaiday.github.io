@@ -40,7 +40,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
       <a href="https://www.nist.gov/people/brian-stanton">Brian Stanton</a> (NIST - Project Lead for AI User Trust)
-      <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#Brian_Stanton">&#128279;</a>)
+      <br>&nbsp;&nbsp;<em>Title: Trust and Perception of an AI System</em> (<a href="#Brian_Stanton">&#128279;</a>)
       <br> <a href="https://www.linkedin.com/in/davidjamesmarcos/">David James Marcos</a> (Microsoft - Director, Governance & Enablement: Office of Responsible AI)
       <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#David_Marcos">&#128279;</a>)
       <br> <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-dverma">Dinesh Verma</a> (IBM Research - CTO for Edge computing)
@@ -143,11 +143,11 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
 ## Brian Stanton
 ![](assets/images/brian_stanton.jpg)
 
-> **Title:** TBD
+> **Title:** Trust and Perception of an AI System
 
-> **Abstract:** TBD
+> **Abstract:** The artificial intelligence (AI) revolution is upon us, with the promise of advances such as driverless cars, smart buildings, automated health diagnostics and improved security monitoring. Many current efforts are aimed to measure system trustworthiness through measurements of Accuracy, Reliability, and Explainability, among other system characteristics. While these characteristics are necessary, determining that the AI system is trustworthy because it meets its system requirements won’t ensure widespread adoption of AI.  It is the user, the human affected by, the AI who ultimately places their trust in the system.
 
-> **Biography:** TBD
+> **Biography:** Brian Stanton (brian.stanton@nist.gov) is a Cognitive Scientist in the Visualization and Usability Group at the National Institute of Standards and Technology where, for the last six years he has been the leading researcher on the Artificial Intelligence User Trust project. He has worked on biometric projects for the Department of Homeland Security, Federal Bureau of Investigation's Hostage Rescue Team, and with Latent Fingerprint examiners. Previously he worked in private industry designing user interfaces for air traffic control systems and B2B web applications.
 
 <a id="David_Marcos"></a>
 ## David James Marcos
