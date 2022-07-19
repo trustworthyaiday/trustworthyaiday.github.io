@@ -69,7 +69,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">Keynote #2</td>
     <td class="tg-73oq">
       <a href="https://sites.google.com/view/jpei/jian-peis-homepage">Jian Pei</a> (Duke University)
-      <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#Jian_Pei">&#128279;</a>)
+      <br>&nbsp;&nbsp;<em>Title: Fair and efficient valuation in data marketplaces</em> (<a href="#Jian_Pei">&#128279;</a>)
       <br>*Session Chair: Wei Wang (UCLA)*</td>
   </tr>
   <tr>
