@@ -6,7 +6,7 @@ title: Trustworthy AI Day
 layout: single
 classes: wide
 author_profile: false
-organizers_row_first:
+organizers_row:
   - image_path: assets/images/alex_chouldechova.jpg
     alt: "Alexandra Chouldechova"
     title: "Alexandra Chouldechova"
@@ -29,7 +29,6 @@ organizers_row_first:
     url: "https://www.seas.ucla.edu/~mbs/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-organizers_row_second:
   - image_path: assets/images/wei_wang.png
     alt: "Wei Wang"
     title: "Wei Wang"
@@ -101,7 +100,7 @@ Trustworthiness of AI is key to accelerating the acceptance and adoption of AI t
 
 KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**. On behalf of the Trustworthy AI Day and KDD 2022 organizing committee, we welcome you all to attend this event!
 
-## To attend the event, please register for the [KDD 2022 Conference](https://www.kdd.org/kdd2022/registration.html).
+## To attend the event, please register for [KDD 2022 Conference](https://www.kdd.org/kdd2022/registration.html).
 
 
 <!-- #Call
@@ -136,9 +135,7 @@ We plan to solicit short paper submissions for “deep learning critique” from
 <section class="organizers" markdown="1">
 # Organizers
 
-{% include feature_row id="organizers_row_first" %}
-
-{% include feature_row id="organizers_row_second" %}
+{% include feature_row id="organizers_row" %}
 
 ## Student Organizer
 

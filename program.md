@@ -69,7 +69,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">Keynote #2</td>
     <td class="tg-73oq">
       <a href="https://sites.google.com/view/jpei/jian-peis-homepage">Jian Pei</a> (Duke University)
-      <br>&nbsp;&nbsp;<em>Title: Fair and efficient valuation in data marketplaces</em> (<a href="#Jian_Pei">&#128279;</a>)
+      <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#Jian_Pei">&#128279;</a>)
       <br>*Session Chair: Wei Wang (UCLA)*</td>
   </tr>
   <tr>
@@ -181,13 +181,12 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
 
 <a id="Jian_Pei"></a>
 ## Jian Pei
-![](assets/images/jian_pei.jpg)
 
-> **Title:** Fair and efficient valuation in data marketplaces
+> **Title:** TBD
 
-> **Abstract:** Data marketplaces are promising for harvesting data from many data owners to support many second-uses. Data assemblage, that is, integrating data from existing data sets to derive new data sets, is an important task in data marketplaces. However, fair and efficient valuation in data marketplaces, particularly in data assemblage tasks, is challenging. There are many data owners and many different ways to assemble data. To achieve fair and efficient valuation in data assemblage tasks in data marketplaces, we are exploring a principled approach -- the decomposability of utility in data assemblage tasks. For example, taking the advantage of sparsity in data assemblage, we show that assessing exact Shapley value of data in assemblage tasks of integrating millions of records from tens of owners is highly practical. In this talk, I will share some of the latest progress and insights on this exciting direction.
+> **Abstract:** TBD
 
-> **Biography:** Jian Pei is Professor at Duke University and Simon Fraser University (on leave). His research focuses on data science, data mining, database systems, information retrieval and applied machine learning. His expertise is on developing effective and efficient data analysis techniques for novel data intensive applications, and transferring to products and business practice. He is recognized as a Fellow of the Royal Society of Canada (Canada's national academy), the Canadian Academy of Engineering, ACM and IEEE. He received several prestigious awards, including the 2017 ACM SIGKDD Innovation Award, the 2015 ACM SIGKDD Service Award, and the 2014 IEEE ICDM Research Contributions Award. He was a past chair of ACM SIGKDD and a past EIC of IEEE TKDE.
+> **Biography:** TBD
 
 <a id="Vera_Liao"></a>
 ## Q. Vera Liao
