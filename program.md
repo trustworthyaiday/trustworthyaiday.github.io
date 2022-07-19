@@ -7,7 +7,7 @@ layout: single
 classes: wide
 author_profile: false
 ---
-KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**. 
+KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.  To attend the event, please register for the [KDD 2022 Conference](https://www.kdd.org/kdd2022/registration.html). You can register using the one "One-Day Conference" option if you only want to attend the _Trustworthy AI Day_.
 
 <table class="tg">
 <tbody>
@@ -109,8 +109,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-vwhn">4:10pm</td>
     <td class="tg-vwhn">5:00pm</td>
     <td class="tg-vwhn">Panel Discussion</td>
-    <td class="tg-vwhn">
-      Panelists: Jian Pei, Q. Vera Liao, James Zou, John P. Dickerson,
+    <td class="tg-vwhn">Panelists: Jian Pei, Q. Vera Liao, James Zou, John P. Dickerson,
       <br>Susan Aaronson, Karen Levy, Anne Washington
       <br>*Panel Moderator: Alexandra Chouldechova (CMU)*
     </td>

@@ -101,7 +101,7 @@ Trustworthiness of AI is key to accelerating the acceptance and adoption of AI t
 
 KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**. On behalf of the Trustworthy AI Day and KDD 2022 organizing committee, we welcome you all to attend this event!
 
-## To attend the event, please register for the [KDD 2022 Conference](https://www.kdd.org/kdd2022/registration.html).
+## To attend the event, please register for the [KDD 2022 Conference](https://www.kdd.org/kdd2022/registration.html). You can register using the one "One-Day Conference" option if you only want to attend the _Trustworthy AI Day_.
 
 
 <!-- #Call
