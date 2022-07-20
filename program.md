@@ -25,7 +25,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
       <a href="https://www.nist.gov/people/elham-tabassi">
       Elham Tabassi</a> (NIST - Chief of Staff, Information Technology Laboratory)
       <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#Elham_Tabassi">&#128279;</a>)
-      <br><i>Session Chair: Wei Wang (UCLA)</i>
+      <br><br><i>Session Chair: Wei Wang (UCLA)</i>
     </td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-vwhn">11:05pm</td>
     <td class="tg-vwhn">12:00pm</td>
     <td class="tg-vwhn">Panel Discussion</td>
-    <td class="tg-vwhn">Panelists: Elham Tabassi, Brian Stanton, David James Marcos, Dinesh Verma, Santosh Kumar<br><i>Panel Moderator: Yizhou Sun (UCLA)</i></td>
+    <td class="tg-vwhn">Panelists: Elham Tabassi, Brian Stanton, David James Marcos, Dinesh Verma, Santosh Kumar<br><br><i>Panel Moderator: Yizhou Sun (UCLA)</i></td>
   </tr>
   <tr>
     <td class="tg-65px">12:00pm</td>
@@ -70,7 +70,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">
       <a href="https://sites.google.com/view/jpei/jian-peis-homepage">Jian Pei</a> (Duke University)
       <br>&nbsp;&nbsp;<em>Title: Fair and efficient valuation in data marketplaces</em> (<a href="#Jian_Pei">&#128279;</a>)
-      <br><i>Session Chair: Wei Wang (UCLA)</i></td>
+      <br><br><i>Session Chair: Wei Wang (UCLA)</i></td>
   </tr>
   <tr>
     <td class="tg-73oq">2:00pm</td>
@@ -83,7 +83,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
       <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#James_Zou">&#128279;</a>)
       <br> <a href="http://jpdickerson.com/">John P. Dickerson</a> (University of Maryland)
       <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#John_Dickerson">&#128279;</a>)
-      <br><i>Session Chair: Alexandra Chouldechova (CMU)</i></td>
+      <br><br><i>Session Chair: Alexandra Chouldechova (CMU)</i></td>
   </tr>
   <tr>
     <td class="tg-65px">3:00pm</td>
@@ -103,15 +103,13 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
       <br> <a href="https://annewashington.com/">Anne Washington</a> (New York University)
       <br>&nbsp;&nbsp;<a href="#Anne_Washington">Title</a>
       <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#Anne_Washington">&#128279;</a>)
-      <br><i>Session Chair: Alexandra Chouldechova (CMU)</i></td>
+      <br><br><i>Session Chair: Alexandra Chouldechova (CMU)</i></td>
   </tr>
   <tr>
     <td class="tg-vwhn">4:10pm</td>
     <td class="tg-vwhn">5:00pm</td>
     <td class="tg-vwhn">Panel Discussion</td>
-    <td class="tg-vwhn">Panelists: Jian Pei, Q. Vera Liao, James Zou, John P. Dickerson,
-      <br>Susan Aaronson, Karen Levy, Anne Washington
-      <br><i>Panel Moderator: Alexandra Chouldechova (CMU)</i>
+    <td class="tg-vwhn">Panelists: Jian Pei, Q. Vera Liao, James Zou, John P. Dickerson,<br>Susan Aaronson, Karen Levy, Anne Washington<br><br><i>Panel Moderator: Alexandra Chouldechova (CMU)</i>
     </td>
   </tr>
   <tr>
