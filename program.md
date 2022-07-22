@@ -47,7 +47,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
       <br>&nbsp;&nbsp;<em>Title: Trusting the outcomes of AI models: Experiences from Applications of AI in IoT Solutions</em> (<a href="#Dinesh_Verma">&#128279;</a>)
       <br> <a href="https://www.cs.memphis.edu/~santosh/">Santosh Kumar</a> (U. Memphis - Director, NIH NIBIB mHealth Center 
       <br>for Discovery, Optimization, and Translation of Temporally-Precise Interventions)
-      <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#Santosh_Kumar">&#128279;</a>)
+      <br>&nbsp;&nbsp;<em>Title: Challenges and Opportunities in Trustworthy AI for Health and Wellness</em> (<a href="#Santosh_Kumar">&#128279;</a>)
       <br><br><i>Session Chair: Yizhou Sun (UCLA)</i></td>
     <td class="tg-73oq"></td>
   </tr>
@@ -170,11 +170,13 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
 ## Santosh Kumar
 ![](assets/images/santosh_kumar.jpg)
 
-> **Title:** TBD
+> **Title:** Challenges and Opportunities in Trustworthy AI for Health and Wellness
 
-> **Abstract:** TBD
+> **Abstract:** AI is regarded as the most promising tool to improve the quality of health care while reducing cost. It can be employed in many stages of care, including AI-assisted diagnosis from radiological images, AI-enabled robotic surgeries, AI-enabled wearables to remotely detect early signs of disease onset or deterioration, managing medication compliance and administration via AI-enabled conversational robots, assisting with post-treatment recovery via AI-powered virtual therapists, and surgical training.
 
-> **Biography:** TBD
+> As the cost of failure in AI in many of these cases can result in health deterioration and threaten life, several fundamental scientific and engineering challenges need to be successfully resolved so that AI-enabled systems can gain and retain trust from various stakeholders. The incorporation of AI in healthcare decision-making, devices, and procedures also presents legal, regulatory, and ethical issues that are at their core about trust and trustworthiness.
+
+> **Biography:** Santosh Kumar is the Lillian & Morrie Moss Professor of Computer Science at University of Memphis and Director of NIH-funded mHealth research centers called MD2K and mDOT. His research develops wearable AI to enable the development, optimization, and privacy-aware deployment of sensor-triggered health interventions. Open-source software developed by his team has been used to conduct scientific studies nationwide, producing hundreds of terabytes of wearable sensor data. His team has used these data to develop AI models for detecting stress, smoking, craving, cocaine use, brushing, and flossing from wearables.
 
 <a id="Jian_Pei"></a>
 ## Jian Pei
