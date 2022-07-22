@@ -24,7 +24,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">
       <a href="https://www.nist.gov/people/elham-tabassi">
       Elham Tabassi</a> (NIST - Chief of Staff, Information Technology Laboratory)
-      <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#Elham_Tabassi">&#128279;</a>)
+      <br>&nbsp;&nbsp;<em>Title: AI Risk Management</em> (<a href="#Elham_Tabassi">&#128279;</a>)
       <br><br><i>Session Chair: Wei Wang (UCLA)</i>
     </td>
   </tr>
@@ -128,13 +128,14 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
 
 <a id="Elham_Tabassi"></a>
 ## Elham Tabassi
-![](assets/images/elham_tabassi.jpg)
+![](assets/images/elham_tabassi.png)
 
-> **Title:** TBD
+> **Title:** AI Risk Management
 
-> **Abstract:** TBD
+> **Abstract:** AI systems sometimes do not operate as intended because they are making inferences from patterns observed in data rather than a true understanding of what causes those patterns. Ensuring that these inferences are helpful and not harmful in particular use cases – especially when inferences are rapidly scaled and amplified – is fundamental to trustworthy AI. While answers to the question of what makes an AI technology trustworthy differ, there are certain key characteristics which support trustworthiness, including accuracy, explainability and interpretability, privacy, reliability, robustness, safety, security (resilience) and mitigation of harmful bias. There also are key guiding principles to take into account such as accountability, fairness, and equity. Cultivating trust and communication about how to understand and manage the risks of AI systems will help create opportunities for innovation and realize the full potential of this technology.<br /> 
+This presentation overviews NIST’s effort in developing a framework to better manage risks to individuals, organizations, and society associated with AI. The NIST Artificial Intelligence Risk Management Framework (AI RMF or Framework) is intended for voluntary use and to improve the ability to incorporate trustworthiness considerations into the design, development, use, and evaluation of AI products, services, and systems.
 
-> **Biography:** TBD
+> **Biography:** Elham Tabassi is the Chief of Staff in the Information Technology Laboratory (ITL) at the National Institute of Standards and Technology (NIST). She leads NIST Trustworthy and Responsible AI program that aims to cultivate trust in the design, development, and use of AI technologies by improving measurement science, standards, and related tools in ways that enhance economic security and improve quality of life. She has been working on various machine learning and computer vision research projects with applications in biometrics evaluation and standards since she joined NIST in 1999. She is a member of the National AI Resource Research Task Force, a senior member of IEEE, and a fellow of Washington Academy of Sciences.
 
 <a id="Brian_Stanton"></a>
 ## Brian Stanton
