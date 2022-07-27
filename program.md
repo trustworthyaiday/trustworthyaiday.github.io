@@ -7,7 +7,7 @@ layout: single
 classes: wide
 author_profile: false
 ---
-KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.  To attend the event, please register for the [KDD 2022 Conference](https://www.kdd.org/kdd2022/registration.html). You can register using the one "One-Day Conference" option if you only want to attend the _Trustworthy AI Day_.
+KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm EDT**.  To attend the event, please register for the [KDD 2022 Conference](https://www.kdd.org/kdd2022/registration.html). You can register using the one "One-Day Conference" option if you only want to attend the _Trustworthy AI Day_.
 
 <table class="tg">
 <tbody>
@@ -42,7 +42,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
       <a href="https://www.nist.gov/people/brian-stanton">Brian Stanton</a> (NIST - Project Lead for AI User Trust)
       <br>&nbsp;&nbsp;<em>Title: Trust and Perception of an AI System</em> (<a href="#Brian_Stanton">&#128279;</a>)
       <br> <a href="https://www.linkedin.com/in/davidjamesmarcos/">David James Marcos</a> (Microsoft - Director, Governance & Enablement: Office of Responsible AI)
-      <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#David_Marcos">&#128279;</a>)
+      <br>&nbsp;&nbsp;<em>Title: Responsible AI: Building out Practical Governance</em> (<a href="#David_Marcos">&#128279;</a>)
       <br> <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-dverma">Dinesh Verma</a> (IBM Research - CTO for Edge computing)
       <br>&nbsp;&nbsp;<em>Title: Trusting the outcomes of AI models: Experiences from Applications of AI in IoT Solutions</em> (<a href="#Dinesh_Verma">&#128279;</a>)
       <br> <a href="https://www.cs.memphis.edu/~santosh/">Santosh Kumar</a> (U. Memphis - Director, NIH NIBIB mHealth Center 
@@ -82,7 +82,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
       <br> <a href="https://www.jiaqima.com/">Jiaqi Ma</a> (Harvard University)
       <br>&nbsp;&nbsp;<em>Title: The Unique Challenges in Trustworthy Graph Machine Learning</em> (<a href="#Jiaqi_Ma">&#128279;</a>)
       <br> <a href="http://jpdickerson.com/">John P. Dickerson</a> (University of Maryland)
-      <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#John_Dickerson">&#128279;</a>)
+      <br>&nbsp;&nbsp;<em>Title: On the Responsible Use of Machine Learning in Market Design</em> (<a href="#John_Dickerson">&#128279;</a>)
       <br><br><i>Session Chair: Alexandra Chouldechova (CMU)</i></td>
   </tr>
   <tr>
@@ -97,12 +97,11 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
       <a href="https://iddp.gwu.edu/susan-ariel-aaronson">Susan Aaronson</a> (George Washington University)
-      <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#Susan_Aaronson">&#128279;</a>)
+      <br>&nbsp;&nbsp;<em>Title: AI and Data Governance</em> (<a href="#Susan_Aaronson">&#128279;</a>)
       <br> <a href="https://www.karen-levy.net/">Karen Levy</a> (Cornell University)
-      <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#Karen_Levy">&#128279;</a>)
+      <br>&nbsp;&nbsp;<em>Title: AI and Data Governance</em> (<a href="#Karen_Levy">&#128279;</a>)
       <br> <a href="https://annewashington.com/">Anne Washington</a> (New York University)
-      <br>&nbsp;&nbsp;<a href="#Anne_Washington">Title</a>
-      <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#Anne_Washington">&#128279;</a>)
+      <br>&nbsp;&nbsp;<em>Title: AI and Data Governance</em> (<a href="#Anne_Washington">&#128279;</a>)
       <br><br><i>Session Chair: Alexandra Chouldechova (CMU)</i></td>
   </tr>
   <tr>
@@ -150,7 +149,7 @@ This presentation overviews NIST’s effort in developing a framework to better 
 <a id="David_Marcos"></a>
 ## David James Marcos
 
-> **Title:** TBD
+> **Title:** Responsible AI: Building out Practical Governance
 
 > **Abstract:** TBD
 
@@ -213,7 +212,7 @@ This presentation overviews NIST’s effort in developing a framework to better 
 ## John P. Dickerson
 ![](assets/images/john_dickerson.jpg)
 
-> **Title:** TBD
+> **Title:** On the Responsible Use of Machine Learning in Market Design
 
 > **Abstract:** TBD
 
@@ -223,7 +222,7 @@ This presentation overviews NIST’s effort in developing a framework to better 
 ## Susan Aaronson
 ![](assets/images/susan_aaronson.jpg)
 
-> **Title:** TBD
+> **Title:** AI and Data Governance
 
 > **Abstract:** TBD
 
@@ -233,7 +232,7 @@ This presentation overviews NIST’s effort in developing a framework to better 
 ## Karen Levy
 ![](assets/images/karen_levy.jpg)
 
-> **Title:** TBD
+> **Title:** AI and Data Governance
 
 > **Abstract:** TBD
 
@@ -243,7 +242,7 @@ This presentation overviews NIST’s effort in developing a framework to better 
 ## Anne Washington
 ![](assets/images/anne_washington.jpg)
 
-> **Title:** TBD
+> **Title:** AI and Data Governance
 
 > **Abstract:** TBD
 
