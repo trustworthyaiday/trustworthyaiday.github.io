@@ -68,8 +68,8 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">2:00pm</td>
     <td class="tg-73oq">Keynote #2</td>
     <td class="tg-73oq">
-      <a href="https://sites.google.com/view/jpei/jian-peis-homepage">Jian Pei</a> (Duke University)
-      <br>&nbsp;&nbsp;<em>Title: Fair and efficient valuation in data marketplaces</em> (<a href="#Jian_Pei">&#128279;</a>)
+      <a href="https://www.james-zou.com/">James Zou</a> (Stanford University)
+      <br>&nbsp;&nbsp;<em>Title: Debugging and editing AI models using natural language</em> (<a href="#James_Zou">&#128279;</a>)
       <br><br><i>Session Chair: Wei Wang (UCLA)</i></td>
   </tr>
   <tr>
@@ -78,9 +78,9 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
       <a href="http://qveraliao.com/">Q. Vera Liao</a> (Microsoft Research Montréal)
-      <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#Vera_Liao">&#128279;</a>)
-      <br> <a href="https://www.james-zou.com/">James Zou</a> (Stanford University)
-      <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#James_Zou">&#128279;</a>)
+      <br>&nbsp;&nbsp;<em>Title: From trustworthy AI to appropriate trust: lessons from human-centered explainable AI</em> (<a href="#Vera_Liao">&#128279;</a>)
+      <br> <a href="https://www.jiaqima.com/">Jiaqi Ma</a> (Harvard University)
+      <br>&nbsp;&nbsp;<em>Title: The Unique Challenges in Trustworthy Graph Machine Learning</em> (<a href="#Jiaqi_Ma">&#128279;</a>)
       <br> <a href="http://jpdickerson.com/">John P. Dickerson</a> (University of Maryland)
       <br>&nbsp;&nbsp;<em>Title: TBD</em> (<a href="#John_Dickerson">&#128279;</a>)
       <br><br><i>Session Chair: Alexandra Chouldechova (CMU)</i></td>
@@ -109,7 +109,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm PST**.
     <td class="tg-vwhn">4:10pm</td>
     <td class="tg-vwhn">5:00pm</td>
     <td class="tg-vwhn">Panel Discussion</td>
-    <td class="tg-vwhn">Panelists: Jian Pei, Q. Vera Liao, James Zou, John P. Dickerson,<br>Susan Aaronson, Karen Levy, Anne Washington<br><br><i>Panel Moderator: Alexandra Chouldechova (CMU)</i>
+    <td class="tg-vwhn">Panelists: James Zou, Q. Vera Liao, Jiaqi Ma, John P. Dickerson,<br>Susan Aaronson, Karen Levy, Anne Washington<br><br><i>Panel Moderator: Alexandra Chouldechova (CMU)</i>
     </td>
   </tr>
   <tr>
@@ -179,31 +179,31 @@ This presentation overviews NIST’s effort in developing a framework to better 
 
 > **Biography:** Santosh Kumar is the Lillian & Morrie Moss Professor of Computer Science at University of Memphis and Director of NIH-funded mHealth research centers called MD2K and mDOT. His research develops wearable AI to enable the development, optimization, and privacy-aware deployment of sensor-triggered health interventions. Open-source software developed by his team has been used to conduct scientific studies nationwide, producing hundreds of terabytes of wearable sensor data. His team has used these data to develop AI models for detecting stress, smoking, craving, cocaine use, brushing, and flossing from wearables.
 
-<a id="Jian_Pei"></a>
-## Jian Pei
-![](assets/images/jian_pei.jpg)
+<a id="James_Zou"></a>
+## James Zou
+![](assets/images/james_zou.jpg)
 
-> **Title:** Fair and efficient valuation in data marketplaces
+> **Title:** Debugging and editing AI models using natural language
 
-> **Abstract:** Data marketplaces are promising for harvesting data from many data owners to support many second-uses. Data assemblage, that is, integrating data from existing data sets to derive new data sets, is an important task in data marketplaces. However, fair and efficient valuation in data marketplaces, particularly in data assemblage tasks, is challenging. There are many data owners and many different ways to assemble data. To achieve fair and efficient valuation in data assemblage tasks in data marketplaces, we are exploring a principled approach -- the decomposability of utility in data assemblage tasks. For example, taking the advantage of sparsity in data assemblage, we show that assessing exact Shapley value of data in assemblage tasks of integrating millions of records from tens of owners is highly practical. In this talk, I will share some of the latest progress and insights on this exciting direction.
+> **Abstract:** Continuously understanding how AI makes mistakes and correcting these mistakes are important steps for building trustworthy systems. I will discuss some recent advances in using natural language to characterize how, where and why an AI model makes mistakes on specific slices of data. Then we will discuss how to edit models to correct some mistakes by providing it with high-level conceptual feedback.
 
-> **Biography:** Jian Pei is Professor at Duke University and Simon Fraser University (on leave). His research focuses on data science, data mining, database systems, information retrieval and applied machine learning. His expertise is on developing effective and efficient data analysis techniques for novel data intensive applications, and transferring to products and business practice. He is recognized as a Fellow of the Royal Society of Canada (Canada's national academy), the Canadian Academy of Engineering, ACM and IEEE. He received several prestigious awards, including the 2017 ACM SIGKDD Innovation Award, the 2015 ACM SIGKDD Service Award, and the 2014 IEEE ICDM Research Contributions Award. He was a past chair of ACM SIGKDD and a past EIC of IEEE TKDE.
+> **Biography:** James Zou is an assistant professor at Stanford University. He works on making machine learning more reliable, human-compatible and mathematically sound. He also works on responsible deployment of AI in healthcare and medicine. He has received a Sloan fellowship, Chan-Zuckerberg fellowship, NSF CAREER, a Top Ten Clinical Research Achievement Award, and faculty awards from Google, Amazon, Tencent and Adobe.
 
 <a id="Vera_Liao"></a>
 ## Q. Vera Liao
 ![](assets/images/vera_liao.jpg)
 
-> **Title:** TBD
+> **Title:** From trustworthy AI to appropriate trust: lessons from human-centered explainable AI
 
-> **Abstract:** TBD
+> **Abstract:** Explainability is often considered one of the pillars of trustworthy AI. The past few years have seen a surge of interest in algorithms, methods, and toolkits to make AI explainable, with one goal, among others, being engendering trust in users. However, empirical studies that examine people’s interactions with AI explanations have shown mixed results of their effectiveness and warned that even technical sound explanations can potentially result in harmful over-trust and over-reliance. In this talk, I will discuss lessons from research on human-centered explainable AI, and argue that technology creators’ responsibility is not limited to AI trustworthiness, but also responsibly communicating the trustworthiness to ensure appropriate and equitable user trust. I will also draw on social science and human-computer interaction (HCI) literature on trust in technologies to suggest paths forward for responsibly building trust in AI.
 
-> **Biography:** TBD
+> **Biography:** Q. Vera Liao is a Principal Researcher at Microsoft Research Montréal, where she is part of the FATE (Fairness, Accountability, Transparency, and Ethics of AI) group. Her current research interests are in human-AI interaction, explainable AI, and responsible AI. Prior to joining MSR, she worked at IBM T.J. Watson Research Center, and studied at the University of Illinois at Urbana-Champaign and Tsinghua University. Her research received multiple paper awards at ACM CHI and IUI. She currently serves as the Co-Editor-in-Chief for Springer HCI Book Series, in the Editors team for ACM CSCW conferences, and on the Editorial Board of ACM Transactions on Interactive Intelligent Systems (TiiS).
 
-<a id="James_Zou"></a>
-## James Zou
-![](assets/images/james_zou.jpg)
+<a id="Jiaqi_Ma"></a>
+## Jiaqi Ma
+![](assets/images/jiaqi_ma.png)
 
-> **Title:** TBD
+> **Title:** The Unique Challenges in Trustworthy Graph Machine Learning
 
 > **Abstract:** TBD
 
