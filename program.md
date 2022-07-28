@@ -97,7 +97,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm EDT**.
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
       <a href="https://iddp.gwu.edu/susan-ariel-aaronson">Susan Aaronson</a> (George Washington University)
-      <br>&nbsp;&nbsp;<em>Title: AI and Data Governance</em> (<a href="#Susan_Aaronson">&#128279;</a>)
+      <br>&nbsp;&nbsp;<em>Title: Our Data Driven Future Needs a Rethink: Data Governance Ain't Working</em> (<a href="#Susan_Aaronson">&#128279;</a>)
       <br> <a href="https://www.karen-levy.net/">Karen Levy</a> (Cornell University)
       <br>&nbsp;&nbsp;<em>Title: AI and Data Governance</em> (<a href="#Karen_Levy">&#128279;</a>)
       <br> <a href="https://annewashington.com/">Anne Washington</a> (New York University)
@@ -222,7 +222,7 @@ This presentation overviews NIST’s effort in developing a framework to better 
 ## Susan Aaronson
 ![](assets/images/susan_aaronson.jpg)
 
-> **Title:** AI and Data Governance
+> **Title:** Our Data Driven Future Needs a Rethink: Data Governance Ain't Working
 
 > **Abstract:** TBD
 
