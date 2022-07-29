@@ -7,7 +7,7 @@ layout: single
 classes: wide
 author_profile: false
 ---
-KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm EDT**.  To attend the event, please register for the [KDD 2022 Conference](https://www.kdd.org/kdd2022/registration.html). You can register using the one "One-Day Conference" option if you only want to attend the _Trustworthy AI Day_.
+KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8:30am-5:00pm EDT**.  To attend the event, please register for the [KDD 2022 Conference](https://www.kdd.org/kdd2022/registration.html). You can register using the one "One-Day Conference" option if you only want to attend the _Trustworthy AI Day_.
 
 <table class="tg">
 <tbody>
@@ -55,7 +55,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8am-5pm EDT**.
     <td class="tg-vwhn">11:05pm</td>
     <td class="tg-vwhn">12:00pm</td>
     <td class="tg-vwhn">Panel Discussion</td>
-    <td class="tg-vwhn">Panelists: Elham Tabassi, Brian Stanton, David James Marcos, Dinesh Verma, Santosh Kumar<br><br><i>Panel Moderator: Yizhou Sun (UCLA)</i></td>
+    <td class="tg-vwhn">Panelists: Elham Tabassi, Brian Stanton, David James Marcos, Dinesh Verma, Santosh Kumar<br><br><i>Panel Moderator: Mani Srivastava (UCLA)</i></td>
   </tr>
   <tr>
     <td class="tg-65px">12:00pm</td>
