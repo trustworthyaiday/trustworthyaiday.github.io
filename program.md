@@ -148,12 +148,13 @@ This presentation overviews NIST’s effort in developing a framework to better 
 
 <a id="David_Marcos"></a>
 ## David James Marcos
+![](assets/images/david_marcos.png)
 
 > **Title:** Responsible AI: Building out Practical Governance
 
-> **Abstract:** TBD
+> **Abstract:** Practical and scalable governance is critical when developing responsible AI products and solutions.  Microsoft is operationalizing responsible AI through a coordinated cross-company effort as the company puts its principles into practice.  This talk will provide an overview of Microsoft’s approach and journey, discussing building blocks of our responsible AI program and the practical aspects of building and institutionalizing a culture of responsible AI across the company.
 
-> **Biography:** TBD
+> **Biography:** David Marcos leads the governance and enablement team within Microsoft's Office of Responsible AI, driving cross-company efforts to institutionalize AI governance, awareness, and training.  Prior to his current position, Mr. Marcos led the development of Microsoft's Responsible AI compliance capabilities as part of the Ethics & Society team in Microsoft's Cloud & Artificial Intelligence division.  Mr. Marcos was also previously Chief Privacy Officer of Microsoft’s Cloud & Artificial Intelligence division, driving governance and privacy engineering solutions for GDPR.  Previous to employment with Microsoft, Mr. Marcos worked for the National Security Agency, holding a variety of positions, including technical director of the NSA Office of Civil Liberties and Privacy, deputy technical director of the NSA Office of the Director of Compliance, and privacy research lead in the NSA Research Directorate. David specializes in governance, privacy, and compliance, focusing on legal automation and ethical computation in cloud technologies.  Mr. Marcos holds a B.S. in Computer Engineering from Penn State and an M.S. in Strategic Intelligence from the National Intelligence University.  Mr. Marcos is both a Certified Information Privacy Manager and Technologist (CIPM/CIPT). 
 
 <a id="Dinesh_Verma"></a>
 ## Dinesh Verma
