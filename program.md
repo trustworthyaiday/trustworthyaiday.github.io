@@ -83,7 +83,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8:30am-5:00pm 
       <br>&nbsp;&nbsp;<em>Title: The Unique Challenges in Trustworthy Graph Machine Learning</em> (<a href="#Jiaqi_Ma">&#128279;</a>)
       <br> <a href="http://jpdickerson.com/">John P. Dickerson</a> (University of Maryland)
       <br>&nbsp;&nbsp;<em>Title: On the Responsible Use of Machine Learning in Market Design</em> (<a href="#John_Dickerson">&#128279;</a>)
-      <br><br><i>Session Chair: Alexandra Chouldechova (CMU)</i></td>
+      <br><br><i>Session Chair: Wei Wang (UCLA)</i></td>
   </tr>
   <tr>
     <td class="tg-65px">3:00pm</td>
@@ -102,13 +102,13 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8:30am-5:00pm 
       <br>&nbsp;&nbsp;<em>Title: AI and Data Governance</em> (<a href="#Karen_Levy">&#128279;</a>)
       <br> <a href="https://annewashington.com/">Anne Washington</a> (New York University)
       <br>&nbsp;&nbsp;<em>Title: AI and Data Governance</em> (<a href="#Anne_Washington">&#128279;</a>)
-      <br><br><i>Session Chair: Alexandra Chouldechova (CMU)</i></td>
+      <br><br><i>Session Chair: Yizhou Sun (UCLA)</i></td>
   </tr>
   <tr>
     <td class="tg-vwhn">4:10pm</td>
     <td class="tg-vwhn">5:00pm</td>
     <td class="tg-vwhn">Panel Discussion</td>
-    <td class="tg-vwhn">Panelists: James Zou, Q. Vera Liao, Jiaqi Ma, John P. Dickerson,<br>Susan Aaronson, Karen Levy, Anne Washington<br><br><i>Panel Moderator: Alexandra Chouldechova (CMU)</i>
+    <td class="tg-vwhn">Panelists: James Zou, Jiaqi Ma, John P. Dickerson,<br>Susan Aaronson, Karen Levy, Anne Washington<br><br><i>Panel Moderator: ADavid James Marcos (Microsoft)</i>
     </td>
   </tr>
   <tr>
