@@ -108,7 +108,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8:30am-5:00pm 
     <td class="tg-vwhn">4:10pm</td>
     <td class="tg-vwhn">5:00pm</td>
     <td class="tg-vwhn">Panel Discussion</td>
-    <td class="tg-vwhn">Panelists: James Zou, Jiaqi Ma, John P. Dickerson,<br>Susan Aaronson, Karen Levy, Anne Washington<br><br><i>Panel Moderator: ADavid James Marcos (Microsoft)</i>
+    <td class="tg-vwhn">Panelists: James Zou, Jiaqi Ma, John P. Dickerson,<br>Susan Aaronson, Karen Levy, Anne Washington<br><br><i>Panel Moderator: David James Marcos (Microsoft)</i>
     </td>
   </tr>
   <tr>
