@@ -70,7 +70,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8:30am-5:00pm 
     <td class="tg-73oq">
       <a href="https://www.james-zou.com/">James Zou</a> (Stanford University)
       <br>&nbsp;&nbsp;<em>Title: Debugging and editing AI models using natural language</em> (<a href="#James_Zou">&#128279;</a>)
-      <br><br><i>Session Chair: Wei Wang (UCLA)</i></td>
+      <br><br><i>Session Chair: Mani Srivastava (UCLA)</i></td>
   </tr>
   <tr>
     <td class="tg-73oq">2:00pm</td>
