@@ -101,7 +101,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8:30am-5:00pm 
       <br> <a href="https://www.karen-levy.net/">Karen Levy</a> (Cornell University)
       <br>&nbsp;&nbsp;<em>Title: AI and Data Governance</em> (<a href="#Karen_Levy">&#128279;</a>)
       <br> <a href="https://annewashington.com/">Anne Washington</a> (New York University)
-      <br>&nbsp;&nbsp;<em>Title: AI and Data Governance</em> (<a href="#Anne_Washington">&#128279;</a>)
+      <br>&nbsp;&nbsp;<em>Title: KDD in the public interest</em> (<a href="#Anne_Washington">&#128279;</a>)
       <br><br><i>Session Chair: Yizhou Sun (UCLA)</i></td>
   </tr>
   <tr>
@@ -243,7 +243,7 @@ This presentation overviews NIST’s effort in developing a framework to better 
 ## Anne Washington
 ![](assets/images/anne_washington.jpg)
 
-> **Title:** AI and Data Governance
+> **Title:** KDD in the public interest
 
 > **Abstract:** TBD
 
