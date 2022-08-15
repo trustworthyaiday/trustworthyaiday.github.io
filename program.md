@@ -227,7 +227,21 @@ This presentation overviews NIST’s effort in developing a framework to better 
 
 > **Abstract:** TBD
 
-> **Biography:** TBD
+> **Biography:** Susan Ariel Aaronson is a CIGI senior fellow. She is an expert in international trade, digital trade, good governance, and human rights.
+Aaronson is particularly interested and writes on how the digital economy is changing governance and human rights. She is currently
+writing on comparative advantage in data, comparing how nations govern data, and how virtual reality will challenge our existing
+apporach to governance.
+
+> Susan is also research professor of international affairs and cross-disciplinary fellow at George Washington University’s Elliott School of
+International Affairs, where she directs the Digital Trade and Data Governance Hub. The Hub educates policy makers and the public on
+domestic and international data governance. The Hub also maps the governance of personal, public and proprietary data around the
+world to illuminate the state of data governance.
+
+> Susan is the former Minerva Chair at the National War College. She is the author of six books and more than 50 scholarly articles. Her
+work has been funded by major international foundations including the MacArthur, Hewlett, Ford Koch, and Rockefeller Foundations;
+governments such as the Netherlands, the United States and Canada; international organizations such as the United Nations,
+International Labour Organization and the World Bank; and US corporations including Google, Ford Motor and Levi Strauss. She loves
+to do triathlons and study ballet and admits she Is mediocre at these activities.
 
 <a id="Karen_Levy"></a>
 ## Karen Levy
@@ -237,7 +251,7 @@ This presentation overviews NIST’s effort in developing a framework to better 
 
 > **Abstract:** TBD
 
-> **Biography:** TBD
+> **Biography:** Karen Levy is an Associate Professor of Information Science at Cornell University and Associated Faculty at Cornell Law School. She is a sociologist and lawyer whose research focuses on legal, social, and ethical dimensions of data-intensive technologies.
 
 <a id="Anne_Washington"></a>
 ## Anne Washington
